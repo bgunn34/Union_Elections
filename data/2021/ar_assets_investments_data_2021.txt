@@ -1,0 +1,15 @@
+OID|INV_TYPE|NAME|AMOUNT|RPT_ID
+357886|703|Marketable Securities Total Cost||737970
+357887|704|Marketable Securities Total BookValue||737970
+357888|705|Other Investments Total Cost||737970
+357889|706|Other Investments Total Book Value||737970
+357660|703|Marketable Securities Total Cost|0|737748
+357661|704|Marketable Securities Total BookValue|0|737748
+357662|701|NONE|0|737748
+357663|705|Other Investments Total Cost|0|737748
+357664|706|Other Investments Total Book Value|0|737748
+357665|702|NONE|0|737748
+357381|703|Marketable Securities Total Cost||737299
+357382|704|Marketable Securities Total BookValue||737299
+357383|705|Other Investments Total Cost||737299
+357384|706|Other Investments Total Book Value||737299

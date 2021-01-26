@@ -17,7 +17,7 @@ I really shouldn't be surprised, but there are random double quotes all over the
 
 TODO: write a ksh or zsh script to pull all the files you actually want out of the archives. That way we can keep from getting too cluttered.
 
-TODO: write a ksh, zsh, or python script to clear out quotes (") from all files. 
+~~TODO: write a ksh, zsh, or python script to clear out quotes (") from all files.~~
 
 That worked, here are the columns we're working with:
 
@@ -67,4 +67,5 @@ Without names these records are just going to be useless anyway, so I'm going to
 ![Screenshot](Readme_docs/df_info.png)
 
 Much better! That's EDA about done. Time to do some data engineering and do all these steps for all the other years in the set. Then we'll engineer some kind of "changed" variable and report on the relative rates of leadership change across time. Is gonna be fun!
+
 

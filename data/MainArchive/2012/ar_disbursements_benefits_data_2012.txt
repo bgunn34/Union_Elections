@@ -3985,7 +3985,7 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 218684|JAC|JAC IUOE|1680|522454
 206793|Hospitalization|Insurance Companies|31311810|519429
 206794|Life & Long-Term Care Insurance|Insurance Companies|4386964|519429
-206795|Medicare Part "B"|Retired Individuals|2259650|519429
+206795|Medicare Part B|Retired Individuals|2259650|519429
 206796|Pension|Pension Trusts|56998352|519429
 206797|Relocation and Transportation|Moving Companies/Individuals|35602|519429
 206798|Worker's Compensation|Insurance Companies|623904|519429
@@ -9149,7 +9149,7 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 218990|HEALTH & WELFARE|UNITED TEAMSTER FUND|83700|522669
 218991|ANNUITY|UNITED TEAMSTER ANNUITY FUND|961|522669
 218992|LEGAL SERVICES|UNITED TEAMSTER LEGAL SERVICE FUND|576|522669
-218985|PENSION|UNITED TEAMSTER PENSION FUND "A"|52260|522669
+218985|PENSION|UNITED TEAMSTER PENSION FUND A|52260|522669
 204724|Officers & Employees Pension Fund|LU Officers & Employees Pension Fund|107325|518415
 204725|National Pension Fund|Plumbers & Pipefitters National Pension|43703|518415
 204726|Local Pension Fund|Plumbers & Steamfitters Local 33 Pension Fund|93508|518415
@@ -14244,7 +14244,7 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 197405|Workers Compensation|State Compensation Insurance Fund|1215|506687
 197393|Health & Welfare Benefits|Stationary Engineers, Local 39|18080|506683
 197394|Pension - Defined Benefit|Stationary Engineers, Local 39|10494|506683
-197395|Pension - Defined Contribution ("Annuity")|Stationary Engineers, Local 39|1456|506683
+197395|Pension - Defined Contribution (Annuity)|Stationary Engineers, Local 39|1456|506683
 197396|Workers Compensation Insurance|State Compensation Insurance Fund|859|506683
 200684|PENSION - H&W|U.A. LOCAL 447 PIPE TRADES FUND|33304|514888
 200685|PENSION|U.A. LOCAL UNION OFCRS & EMPLOYEES PENSION|142359|514888
@@ -17068,7 +17068,7 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 215626|HEALTH|ALL ALASKA LONGSHORE HEALTH AND WELFARE TRUST|54443|521043
 215627|VACATION AND HOLIDAY|ALASKA LONGSHORE VACATION AND HOLIDAY TRUST|16600|521043
 198818|Basic Life Insurance included with Dues|UNUM|14911|510271
-198819|Office Managers"s Disability Insurance|Colonial Life|732|510271
+198819|Office Managerss Disability Insurance|Colonial Life|732|510271
 198820|Supplement to Member Flifht Physicals|Primercare Medical Clinic|2340|510271
 199350|Health Care Benefits|Southern Painters Welfare Fund|63157|512653
 199351|Pensino Benefits|IUPAT Combined Pension Fund|122380|512653

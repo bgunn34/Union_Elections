@@ -4408,7 +4408,7 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 20965|Retirement Plans|Retmnt & Family Protectn|9877355|294640
 17122|Hospitalization|Insurance Companies|26948739|276444
 17123|Life & Long-Term Care Insurance|Insurance Companies|2865473|276444
-17124|Medicare Part "B"|Retired Individuals|1601432|276444
+17124|Medicare Part B|Retired Individuals|1601432|276444
 17125|Pension|Pension Trusts|24075544|276444
 17126|Special Retirement Allowance|Retired Individuals|212855|276444
 17127|Relocation|Moving Companies|118214|276444
@@ -8248,7 +8248,7 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 1060|Pension, Health and Welfare and Apprenticeship|Twin Cities Ironworkers Pensio|328084|248121
 1061|Dues Reimbursement - Pensioners|Individual Members|6779|248121
 16317|HEALTH & WELFARE PLAN|GR. ST.LOUIS CONSTR. LAB WELFA|73848|275293
-16316|PENSION BENEFIT PLAN|CONSTR. LABORERS" PENSION TRUS|68325|275293
+16316|PENSION BENEFIT PLAN|CONSTR. LABORERS PENSION TRUS|68325|275293
 16315|PENSION BENEFIT PLAN|L.I.U.N.A. PENSION TRUST|88390|275293
 23380|PENSION PLAN|LIUNA LOCAL UNION PENSION|169511|299195
 23381|LABORERS INDUSTRIAL PENSION|INDUSTRIAL PENSION|164718|299195
@@ -14695,14 +14695,14 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 7800|UAW International Education Center|Members|1058|270350
 6547|Local #17 Death Benefit|Members Benificiaries|3750|268655
 6548|Local #17 Work Preservation Fund|I.U.E.C.|276|268655
-6549|Local #17 Welfare|"|20079|268655
-6550|Local #17 Pension|"|9439|268655
-6551|Local #17 Education|"|1021|268655
-6552|Annuity|"|2622|268655
-6553|Business Agent Welfare|"|97|268655
+6549|Local #17 Welfare||20079|268655
+6550|Local #17 Pension||9439|268655
+6551|Local #17 Education||1021|268655
+6552|Annuity||2622|268655
+6553|Business Agent Welfare||97|268655
 6554|Federal Unemployment Tax|IRS|278|268655
 6555|State Unemployment Tax|State of  Ohio|296|268655
-6556|Bureau of Workmans Compensation|"|1051|268655
+6556|Bureau of Workmans Compensation||1051|268655
 11565|PENSION|LOCAL 773 PENSION|32779|272698
 11566|HEALTH|LOCAL 773 HEALTH|17504|272698
 11567|ANNUITY|LOCAL 773 ANNUITY|5614|272698
@@ -15052,19 +15052,19 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 22354|Pension|Teamsters Joint Council|21881|298559
 22355|Health and Welfare|Teamsters Joint Council|26878|298559
 53180|Gift to retired member|Laura Duchon|250|334076
-53181|"        "          "          "|Uberto Battente|250|334076
-53182|"          "          "          "|Juan Armando|250|334076
-53183|"          "          "         "|Julian Rochez|250|334076
-53184|"          "          "          "|Salvatore Dieli|250|334076
-53185|"          "          "          "|Henry Jagmohan|250|334076
-53186|"          "          "          "|Ronald Meighan|250|334076
-53187|"          "          "          "|Alta Benyaklef|250|334076
-53188|"           "          "          "|Eric Pelaso|250|334076
-53189|"          "          "          "|John Biondo|250|334076
-53190|"          "          "          "|Dularie Karran|250|334076
-53191|"          "          "          "|Erlinda Rochez|250|334076
-53192|"          "          "          "|Jabal A. Rahman|250|334076
-53193|"          "          "          "|Etta Williams|250|334076
+53181|                            |Uberto Battente|250|334076
+53182|                              |Juan Armando|250|334076
+53183|                             |Julian Rochez|250|334076
+53184|                              |Salvatore Dieli|250|334076
+53185|                              |Henry Jagmohan|250|334076
+53186|                              |Ronald Meighan|250|334076
+53187|                              |Alta Benyaklef|250|334076
+53188|                               |Eric Pelaso|250|334076
+53189|                              |John Biondo|250|334076
+53190|                              |Dularie Karran|250|334076
+53191|                              |Erlinda Rochez|250|334076
+53192|                              |Jabal A. Rahman|250|334076
+53193|                              |Etta Williams|250|334076
 53194|Dues for retired member|D.C. 37 Retirees Association|24|334076
 53195|Spring Party gift|Brooke Worrell|75|334076
 12919|401K Employers Portion|IBEW Employees 401K Plan|24554|273335
@@ -16844,7 +16844,7 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 3895|Pension Plan|Western States OPE Pension|26470|256061
 3896|Pension Plan|Ironworkers LUCD Pension Plan|101627|256061
 3897|Rabbi Trust Disbursement|James Pruett|25000|256061
-3898|Members who pay early get 1 month of "free dues"|Various Members|11796|256061
+3898|Members who pay early get 1 month of free dues|Various Members|11796|256061
 3899|Other misc. member benefits|Various Members|1381|256061
 3900|Sick and Accident Benefits|Various Members|2960|256061
 3901|International Death Benefits|Various Members|43784|256061

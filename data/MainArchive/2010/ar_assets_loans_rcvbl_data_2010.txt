@@ -2110,22 +2110,22 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 37676|2002|All Other Loans| | | ||||||477364
 32834|2001|NATCA LOCAL ZME|Advance of Funds|None|On Demand|10000|0|0|10000|0|449409
 32835|2002|All Other Loans| | | ||||||449409
-29859|2001|Barbara Callahan "E"|Travel Advance|None|On Demand|500|500||||436983
-29850|2001|Don Cantriel "O"|Travel Advance|None|On Demand|500|500||||436983
-29858|2001|Susan Knapp "O"|Travel Advance|On Demand|None|500|500||||436983
-29857|2001|Steven Traylor "O"|Travel Advance|None|On Demand|500|500||||436983
-29856|2001|Robert Horne "O"|Travel Advance|None|On Demand|500|500||||436983
-29855|2001|Donald Matson "O"|Travel Advance|None|On Demand|500|500||||436983
-29854|2001|Ronnie Stutts "O"|Travel Advance|None|On Demand|500|500||||436983
-29853|2001|Joey Johnson "O"|Travel Advance|None|On Demand|500|500||||436983
-29852|2001|Clifford Dailing "O"|Travel Advance|None|On Demand|500|500||||436983
-29851|2001|Jeanette Dwyer "O"|Travel Advance|None|On Demand|500|500||||436983
+29859|2001|Barbara Callahan E|Travel Advance|None|On Demand|500|500||||436983
+29850|2001|Don Cantriel O|Travel Advance|None|On Demand|500|500||||436983
+29858|2001|Susan Knapp O|Travel Advance|On Demand|None|500|500||||436983
+29857|2001|Steven Traylor O|Travel Advance|None|On Demand|500|500||||436983
+29856|2001|Robert Horne O|Travel Advance|None|On Demand|500|500||||436983
+29855|2001|Donald Matson O|Travel Advance|None|On Demand|500|500||||436983
+29854|2001|Ronnie Stutts O|Travel Advance|None|On Demand|500|500||||436983
+29853|2001|Joey Johnson O|Travel Advance|None|On Demand|500|500||||436983
+29852|2001|Clifford Dailing O|Travel Advance|None|On Demand|500|500||||436983
+29851|2001|Jeanette Dwyer O|Travel Advance|None|On Demand|500|500||||436983
 29865|2002|All Other Loans| | | ||||||436983
 29864|2001|Paul Swartz|Travel Advance|None|On Demand|250|250||||436983
-29863|2001|Kevin Talley "E"|Travel Advance|None|On Demand|250|250||||436983
-29862|2001|Kurtis Buttars "E"|Travel Advance|None|On Demand|500|500||||436983
-29861|2001|Deborah Williams "E"|Travel Advance|None|On Demand|500|500||||436983
-29860|2001|Beth Klien "E"|Travel Advance|None|On Demand|500|0||500||436983
+29863|2001|Kevin Talley E|Travel Advance|None|On Demand|250|250||||436983
+29862|2001|Kurtis Buttars E|Travel Advance|None|On Demand|500|500||||436983
+29861|2001|Deborah Williams E|Travel Advance|None|On Demand|500|500||||436983
+29860|2001|Beth Klien E|Travel Advance|None|On Demand|500|0||500||436983
 32692|2001|NPMHU Local Union 297|Advances|Future Dues|$12,500 Annually|50495|38035|535|12995|0|449018
 32701|2002|All Other Loans||||0|0|0|0|0|449018
 32700|2001|NPMHU Local Union 329|Advances|Future Dues|$127,000 Annually|274613|424275|277327|127665|0|449018
@@ -2628,11 +2628,11 @@ Comes In|77312|17112|0|60200|0|450813
 29381|2001|None|None|None|None|0|0|0|0|0|435815
 29382|2002|All Other Loans||||0|0|0|0|0|435815
 32233|2002|All Other Loans| | | ||||||447893
-35128|2001|Z Javalera "E"|advance|pay check|pr deduction|0|0|2000|2000||465076
+35128|2001|Z Javalera E|advance|pay check|pr deduction|0|0|2000|2000||465076
 35132|2002|All Other Loans| | | ||||||465076
-35131|2001|D Lyne "E"|advance|pay check|pr deduction|0|1000|2000|1000||465076
-35130|2001|J Quiroga"E"|advance|pay check|pr deduction|0|1467|2000|533||465076
-35129|2001|F Prockiw"E"|advance|pay check|pr deduction|0|1200|3200|2000||465076
+35131|2001|D Lyne E|advance|pay check|pr deduction|0|1000|2000|1000||465076
+35130|2001|J QuirogaE|advance|pay check|pr deduction|0|1467|2000|533||465076
+35129|2001|F ProckiwE|advance|pay check|pr deduction|0|1200|3200|2000||465076
 33433|2002|All Other Loans| | | ||||||451040
 32056|2002|All Other Loans| | | |0|0|0|0|0|446932
 29058|2001|NOT APPLICABLE|NOT APPLICABLE|NOT APPLICABLE|NOT APPLICABLE|0|0|0|0|0|434103

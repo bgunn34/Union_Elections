@@ -3030,11 +3030,11 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 72264|Prepaid Subscriptions|2086|636692
 72843|Bibles (23)|791|638934
 72850|Local 245 Hats (24)|263|638934
-72849|Local 245 "Vets T" shirts (26)|409|638934
-72848|Local 245 "In the D" jackets (14)|371|638934
+72849|Local 245 Vets T shirts (26)|409|638934
+72848|Local 245 In the D jackets (14)|371|638934
 72847|Local 245 Sweatshirts (98)|4454|638934
-72846|Local 245 "Solidarity T" shirts (Red) (25)|321|638934
-72845|Local 245 "T" shirts (Black) (0)|0|638934
+72846|Local 245 Solidarity T shirts (Red) (25)|321|638934
+72845|Local 245 T shirts (Black) (0)|0|638934
 72844|Tumblers (0)|0|638934
 72706|Deposits on Assets|25|638501
 70584|BUILDING ELECT. WORKERS HOME ASSOCIATION, INC.|22725|627088

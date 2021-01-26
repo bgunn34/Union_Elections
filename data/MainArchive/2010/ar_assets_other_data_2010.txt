@@ -3177,7 +3177,7 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 38414|RENT DEPOSIT|4060|465096
 34947|Prepaid Insurance|17820|445378
 34948|Prepaid Legal Fees|16750|445378
-35719|"Ford" license plate bracket/holders (152)|188|448575
+35719|Ford license plate bracket/holders (152)|188|448575
 35724|UAW Portfolio pads  (7)  (display case)|35|448575
 35723|UAW Hitch covers  (6)  (display case)|114|448575
 35722|T-shirts (veterans)   (7)  (display case)|80|448575

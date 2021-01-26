@@ -75,7 +75,7 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 88159|PREPAID EXPENSE|4033|722109
 86431|GHQ Undeposited Funds|31329|710764
 86429|Literature Department Inventory & Embarked Funds|75873|710764
-86430|GHQ "Total Other assets" Office Rental Deposit|1100|710764
+86430|GHQ Total Other assets Office Rental Deposit|1100|710764
 90424|Rent Deposit|14648|732090
 90546|Hats|502|733235
 90548|29 Bibles |1116|733235
@@ -1681,8 +1681,8 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 90342|Softballs (5 * $5)|25|730614
 90341|Bibles (70 * $18)|1260|730614
 90340|UAW Stuickers ( 428 * $.44)|188|730614
-90339|3" Patches (52 * $3.50)|182|730614
-90338|8" Emblems (43 * $7.50)|323|730614
+90339|3 Patches (52 * $3.50)|182|730614
+90338|8 Emblems (43 * $7.50)|323|730614
 90337|S.T. Pins (266 * $1.25)|333|730614
 90336|Retiree Pins (221 * $1.25)|276|730614
 90335|UAW Pins (1242 * $1.25)|1553|730614
@@ -2840,8 +2840,8 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 90063|Staff Expense Advance - Portion not shown in loans|121|729185
 87057|SUPPLIES INVENTORY|687|715702
 87254|Flags - 2|140|718105
-87259|UAW Decals 500 - 4"|180|718105
-87258|UAW Decals 400 - 2-1/2"|112|718105
+87259|UAW Decals 500 - 4|180|718105
+87258|UAW Decals 400 - 2-1/2|112|718105
 87257|Hats 5 camo|78|718105
 87256|T-Shirts 2 Green|29|718105
 87255|T-Shirts 112 Black & Gold|1680|718105
@@ -3111,11 +3111,11 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 87729|Prepaid Legal Fees|18000|720875
 88355|Bibles (24)|838|722651
 88361|Local 245 Baseball caps (Red, White, Black. (43)|827|722651
-88360|Local 245 "Wings & Tigers" colored T-shirts (31)|373|722651
-88359|Local 245 "P.B.R." black T-shirts (25)|355|722651
+88360|Local 245 Wings & Tigers colored T-shirts (31)|373|722651
+88359|Local 245 P.B.R. black T-shirts (25)|355|722651
 88358|Local 245 winter knit caps (3)|25|722651
 88357|Local 245 Sweatshirts (22)|910|722651
-88356|Local 245 "Solidarity" Red T-shirts (6)|109|722651
+88356|Local 245 Solidarity Red T-shirts (6)|109|722651
 87743|Prepaid payroll tax liabilities|1896|720897
 88169|Deposits on Assets|25|722142
 86108|BUILDING ELECT. WORKERS HOME ASSOCIATION, INC.|31091|710305

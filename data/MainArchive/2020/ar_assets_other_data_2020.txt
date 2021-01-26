@@ -46,7 +46,7 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 91890|PREPAID EXPENSES|8728|738899
 91243|Literature Department Inventory & Embarked Funds|80444|736294
 91245|GHQ Other Assets|46|736294
-91244|GHQ "Total Other Assets" Office Rental Deposit|1100|736294
+91244|GHQ Total Other Assets Office Rental Deposit|1100|736294
 91872|Prepaid Taxes|682|738832
 91875|Inventory Asset|120|738832
 91874|American Funds|7650|738832

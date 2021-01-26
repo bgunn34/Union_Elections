@@ -577,7 +577,7 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 17058|INTEREST RECEIVABLE|8911|350545
 17060|DEPOSIT ON LEASED PROPERTY|387|350545
 17059|PREPAID EXPENSES|1164|350545
-16632|3,949 labor day "give a ways" - average $.86 per|3396|349806
+16632|3,949 labor day give a ways - average $.86 per|3396|349806
 16631|317 t shirts at average cost of $6.73 per shirt|2133|349806
 16654|office max adding machine|78|349806
 16653|radio shack desk tape recorder|124|349806

@@ -1690,12 +1690,12 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 98536|2001|LOCAL 526|PURCHASE BUILDING|MORTGAGE|449/MO, 9/35|64062|60070|0|3992|0|712164
 99668|2002|All Other Loans| | | ||||||720486
 99007|2002|All Other Loans| | | ||||||714710
-100571|2001|Haas, Sara "E"|Travel Advance|None|Upon Travel Completion|0|0|1540|0|1540|723429
+100571|2001|Haas, Sara E|Travel Advance|None|Upon Travel Completion|0|0|1540|0|1540|723429
 100576|2002|All Other Loans| | | ||||||723429
-100575|2001|Stark, Karl "E"|Travel Advance|None|Upon Travel Completion|1050|0|0|1050|0|723429
-100574|2001|Soto, Rosa "E"|Travel Advance|None|Upon Travel Completion|0|0|1048|1048|0|723429
-100573|2001|Richards, Denna "E"|Travel Advance|None|Upon Travel Completion|0|0|484|484|0|723429
-100572|2001|McClain, Melvinia "E"|Travel Advance|None|Upon Travel Completion|0|0|2231|2231|0|723429
+100575|2001|Stark, Karl E|Travel Advance|None|Upon Travel Completion|1050|0|0|1050|0|723429
+100574|2001|Soto, Rosa E|Travel Advance|None|Upon Travel Completion|0|0|1048|1048|0|723429
+100573|2001|Richards, Denna E|Travel Advance|None|Upon Travel Completion|0|0|484|484|0|723429
+100572|2001|McClain, Melvinia E|Travel Advance|None|Upon Travel Completion|0|0|2231|2231|0|723429
 97794|2002|All Other Loans| | | |0|0|0|0|0|710496
 101401|2002|All Other Loans| | | ||||||725587
 96640|2001|Writers Guild Industry P&H Fun|Travel advances|None|None|4473|0|0|4473|0|706402

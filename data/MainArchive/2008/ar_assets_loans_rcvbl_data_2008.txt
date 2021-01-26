@@ -267,11 +267,11 @@ PAYROLL DEDUCT|2908|0|0|2908|0|384266
 23409|2001|GWENDOLYN MORRIS|PERSONAL LOAN|NONE|MONTHLY|0|0|7000|7000|0|401683
 23410|2002|All Other Loans||||0|0|0|0|0|401683
 30128|2002|All Other Loans| | | ||||||439036
-29016|2001|Mark Jones "e"|Personal|none|none found|0|0|2000|2000|0|433813
+29016|2001|Mark Jones e|Personal|none|none found|0|0|2000|2000|0|433813
 29020|2002|All Other Loans||||0|0|0|0|0|433813
 29019|2001|Danny McBride|Personal|none|none found|0|500|500|0|0|433813
-29018|2001|Byron Jenner "O"|Personal|none|none found|2000|2000|0|0|0|433813
-29017|2001|Don Wirtz "e"|Personal|none|used payroll deduction|1350|0|0|1350|0|433813
+29018|2001|Byron Jenner O|Personal|none|none found|2000|2000|0|0|0|433813
+29017|2001|Don Wirtz e|Personal|none|used payroll deduction|1350|0|0|1350|0|433813
 29946|2002|All Other Loans| | | |0|0|0|0|0|438298
 23119|2002|All Other Loans||||0|0|0|0|0|401175
 22040|2002|All Other Loans||||0|0|0|0|0|393973
@@ -326,7 +326,7 @@ PAYROLL DEDUCT|2908|0|0|2908|0|384266
 18474|2002|All Other Loans||||0|0|0|0|0|371508
 20335|2002|All Other Loans||||0|0|0|0|0|382922
 22057|2002|All Other Loans||||0|0|0|0|0|394157
-17106|2001|FREDDY RODRIGUEZ "O"|PERSONAL LOAN|NONE|NONE|1000|0|0|1000|0|365052
+17106|2001|FREDDY RODRIGUEZ O|PERSONAL LOAN|NONE|NONE|1000|0|0|1000|0|365052
 17107|2002|All Other Loans||||0|0|0|0|0|365052
 20110|2002|All Other Loans||||0|0|0|0|0|382279
 19790|2002|All Other Loans||||0|0|0|0|0|380950
@@ -1012,7 +1012,7 @@ $4,644 per montj|629287|611699|0|17588|0|367966
 18094|2002|All Other Loans||||0|0|0|0|0|368766
 18373|2001|NONE|NONE|NONE|NONE|0|0|0|0|0|369583
 18374|2002|All Other Loans||||0|0|0|0|0|369583
-20901|2001|Steven Scott "O"|na|na|See p63 for repmt terms|0|12707|12707|0|0|384487
+20901|2001|Steven Scott O|na|na|See p63 for repmt terms|0|12707|12707|0|0|384487
 20902|2002|All Other Loans||||0|0|0|0|0|384487
 20674|2001|Paul Neil|Accidental CC Charge|Future Payroll|Personal Check|23|0|0|23|0|384013
 20677|2002|All Other Loans||||0|0|0|0|0|384013
@@ -2045,23 +2045,23 @@ Int. only 7%|0|125000|125000|0|0|381455
 21357|2001|Carol Fontana|Advance|None|On Demand|306|999|2000|152|1155|384954
 19648|2001|NATCA LOCAL ZME|Advance of Funds|None|On Demand|0|10000|10000|0|0|380502
 19649|2002|All Other Loans||||0|0|0|0|0|380502
-18052|2001|Don Cantriel "O"|Travel Advance|None|Due on demand|500|500|0|0|0|368742
-18048|2001|Joey Johnson "O"|Travel Advance|None|Due on demand|500|500|0|0|0|368742
-18051|2001|Clifford Anderson "O"|Travel Advance|None|Due on demand|500|500|0|0|0|368742
-18050|2001|Clifford Dailing "O"|Travel Advance|None|Due on demand|500|500|0|0|0|368742
-18049|2001|Debbie Williams "E"|Travel Advance|None|Due on demand|500|500|0|0|0|368742
+18052|2001|Don Cantriel O|Travel Advance|None|Due on demand|500|500|0|0|0|368742
+18048|2001|Joey Johnson O|Travel Advance|None|Due on demand|500|500|0|0|0|368742
+18051|2001|Clifford Anderson O|Travel Advance|None|Due on demand|500|500|0|0|0|368742
+18050|2001|Clifford Dailing O|Travel Advance|None|Due on demand|500|500|0|0|0|368742
+18049|2001|Debbie Williams E|Travel Advance|None|Due on demand|500|500|0|0|0|368742
 18064|2002|All Other Loans||||500|0|0|500|0|368742
-18063|2001|Ken Parmalee "E"|Travel advance|None|Due on demand|0|500|500|0|0|368742
-18062|2001|Steven Traylor "O"|Travel advance|None|Due on demand|0|500|500|0|0|368742
-18061|2001|Beth Klein "E"|Travel advance|None|Due on demand|500|500|0|0|0|368742
-18060|2001|Terry Leeper "E"|Travel advance|None|Due on demand|500|0|0|500|0|368742
-18059|2001|Ronnie Stutts "O"|Travel advance|None|Due on demand|500|500|0|0|0|368742
-18058|2001|Susan Knapp "E"|Travel advance|None|Due on demand|500|500|0|0|0|368742
-18057|2001|Kurtis Buttars "E"|Travel advance|None|Due on demand|500|500|0|0|0|368742
-18056|2001|Jeanette Dwyer "O"|TRavel advance|NOne|Due on demand|500|500|0|0|0|368742
-18055|2001|Don Pitts "O"|Travel advance|Nond|Due on demand|500|500|0|0|0|368742
-18054|2001|Bill Gordon "O"|Travel avance|None|Due on demand|500|500|0|0|0|368742
-18053|2001|Francis Raimer "O"|Travel advance|None|Due on demand|500|0|0|500|0|368742
+18063|2001|Ken Parmalee E|Travel advance|None|Due on demand|0|500|500|0|0|368742
+18062|2001|Steven Traylor O|Travel advance|None|Due on demand|0|500|500|0|0|368742
+18061|2001|Beth Klein E|Travel advance|None|Due on demand|500|500|0|0|0|368742
+18060|2001|Terry Leeper E|Travel advance|None|Due on demand|500|0|0|500|0|368742
+18059|2001|Ronnie Stutts O|Travel advance|None|Due on demand|500|500|0|0|0|368742
+18058|2001|Susan Knapp E|Travel advance|None|Due on demand|500|500|0|0|0|368742
+18057|2001|Kurtis Buttars E|Travel advance|None|Due on demand|500|500|0|0|0|368742
+18056|2001|Jeanette Dwyer O|TRavel advance|NOne|Due on demand|500|500|0|0|0|368742
+18055|2001|Don Pitts O|Travel advance|Nond|Due on demand|500|500|0|0|0|368742
+18054|2001|Bill Gordon O|Travel avance|None|Due on demand|500|500|0|0|0|368742
+18053|2001|Francis Raimer O|Travel advance|None|Due on demand|500|0|0|500|0|368742
 20390|2001|NPMHU Local Union 319|Advances|Future Dues|$5,500 Annually|16722|11741|519|5500|0|383256
 20385|2001|NPMHU Local Union 298|Advances|Future Dues|$2,000 Monthly|182932|167242|8310|24000|0|383256
 20389|2001|NPMHU Local Union 317|Advances|Future Dues|$1,100 Bi-weekly|206472|184876|8104|29700|0|383256
@@ -2485,15 +2485,15 @@ begins|0|45812|45812|0|0|431239
 22037|2002|All Other Loans||||0|0|0|0|0|393789
 17882|2001|N/A|N/A|N/A|N/A|0|0|0|0|0|368486
 17883|2002|All Other Loans||||0|0|0|0|0|368486
-23101|2001|J L Strout "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|700|700|0|400923
+23101|2001|J L Strout E|Payroll drawcheck|Wages|Payroll deduction|0|0|700|700|0|400923
 23109|2002|All Other Loans||||0|0|0|0|0|400923
-23108|2001|S A Salinas "O"|Payroll drawcheck|Wages|Payroll deduction|0|0|2575|2575|0|400923
-23107|2001|M J Pedregosa "O"|Payroll drawcheck|Wages|Payroll deduction|0|0|2225|2225|0|400923
-23106|2001|F T Prockiw "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|675|675|0|400923
-23105|2001|E Hankic "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|900|900|0|400923
-23104|2001|J M Duenas "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|275|275|0|400923
-23103|2001|J Y Clay "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|500|500|0|400923
-23102|2001|T S Travis "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|880|880|0|400923
+23108|2001|S A Salinas O|Payroll drawcheck|Wages|Payroll deduction|0|0|2575|2575|0|400923
+23107|2001|M J Pedregosa O|Payroll drawcheck|Wages|Payroll deduction|0|0|2225|2225|0|400923
+23106|2001|F T Prockiw E|Payroll drawcheck|Wages|Payroll deduction|0|0|675|675|0|400923
+23105|2001|E Hankic E|Payroll drawcheck|Wages|Payroll deduction|0|0|900|900|0|400923
+23104|2001|J M Duenas E|Payroll drawcheck|Wages|Payroll deduction|0|0|275|275|0|400923
+23103|2001|J Y Clay E|Payroll drawcheck|Wages|Payroll deduction|0|0|500|500|0|400923
+23102|2001|T S Travis E|Payroll drawcheck|Wages|Payroll deduction|0|0|880|880|0|400923
 18178|2001|NOT APPLICABLE|NOT APPLICABLE|NOT APPLICABLE|NOT APPLICABLE|0|0|0|0|0|369155
 18179|2002|All Other Loans||||0|0|0|0|0|369155
 17824|2002|All Other Loans||||0|0|0|0|0|368299
@@ -2879,9 +2879,9 @@ begins|0|45812|45812|0|0|431239
 19641|2002|All Other Loans||||0|0|0|0|0|380458
 19574|2001|NONE|NONE|NONE|NONE|0|0|0|0|0|379673
 19575|2002|All Other Loans||||0|0|0|0|0|379673
-19558|2001|Carolyn Williams "O"|Unauthorized Advance|None|None|3158|0|0|3158|0|379491
+19558|2001|Carolyn Williams O|Unauthorized Advance|None|None|3158|0|0|3158|0|379491
 19560|2002|All Other Loans||||0|0|0|0|0|379491
-19559|2001|Dolores Appling "O"|Unauthorized Advance|None|None|635|0|0|635|0|379491
+19559|2001|Dolores Appling O|Unauthorized Advance|None|None|635|0|0|635|0|379491
 58834|2002|All Other Loans| | | ||||||556542
 21339|2001|GUADALUPE CORRAL|EXPENSE ADVANCE|NONE|ON DEMAND|1369|0|0|1169|200|384904
 21342|2002|All Other Loans||||0|0|0|0|0|384904

@@ -1968,21 +1968,21 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 40093|2001|Tina Ball|Advance|None|On Demand|1817|1400|2183|0|2600|489705
 40050|2002|All Other Loans| | | ||||||489559
 38051|2002|All Other Loans| | | |0|0|0|0|0|479061
-35435|2001|Steven Traylor "O"|Travel Advance|None|On Demand|500|500||||466508
-35428|2001|Don Cantriel "O"|Travel Advance|None|On Demand|500|500||||466508
-35434|2001|Robert Horne "O"|Travel Advance|None|On Demand|500|500||||466508
-35433|2001|Donald Maston "O"|Travel Advance|None|On Demand|500|500||||466508
-35432|2001|Ronnie Stutts "O"|Travel Advance|None|On Demand|500|500||||466508
-35431|2001|Joey Johnson "O"|Travel Advance|None|On Demand|500|500||||466508
-35430|2001|Clifford Dailing "O"|Travel Advance|None|On Demand|500|500||||466508
-35429|2001|Jeanette Dwyer "O"|Travel Advance|None|On Demand|500|500||||466508
+35435|2001|Steven Traylor O|Travel Advance|None|On Demand|500|500||||466508
+35428|2001|Don Cantriel O|Travel Advance|None|On Demand|500|500||||466508
+35434|2001|Robert Horne O|Travel Advance|None|On Demand|500|500||||466508
+35433|2001|Donald Maston O|Travel Advance|None|On Demand|500|500||||466508
+35432|2001|Ronnie Stutts O|Travel Advance|None|On Demand|500|500||||466508
+35431|2001|Joey Johnson O|Travel Advance|None|On Demand|500|500||||466508
+35430|2001|Clifford Dailing O|Travel Advance|None|On Demand|500|500||||466508
+35429|2001|Jeanette Dwyer O|Travel Advance|None|On Demand|500|500||||466508
 35442|2002|All Other Loans| | | ||||||466508
-35441|2001|Kevin Talley "E"|Travel Advance|None|On Demand|250|250||||466508
-35440|2001|Paul Swartz "E"|Travel Advance|None|On Demand|250|250||||466508
-35439|2001|Kurtis Buttars "E"|Travel Advance|None|On Demand|500|500||||466508
-35438|2001|Deborah Williams "E"|Travel Advance|None|On Demand|500|500||||466508
-35437|2001|Barbara Callahan "E"|Travel Advance|None|On Demand|500|500||||466508
-35436|2001|Susan Knapp "O"|Travel Advance|None|On Demand|500|500||||466508
+35441|2001|Kevin Talley E|Travel Advance|None|On Demand|250|250||||466508
+35440|2001|Paul Swartz E|Travel Advance|None|On Demand|250|250||||466508
+35439|2001|Kurtis Buttars E|Travel Advance|None|On Demand|500|500||||466508
+35438|2001|Deborah Williams E|Travel Advance|None|On Demand|500|500||||466508
+35437|2001|Barbara Callahan E|Travel Advance|None|On Demand|500|500||||466508
+35436|2001|Susan Knapp O|Travel Advance|None|On Demand|500|500||||466508
 39158|2001|NPMHU Local Union 297|Advances|Future Dues|$12,500 Annually|38035|25386|385|13034|0|486952
 39166|2002|All Other Loans| | | ||||||486952
 39165|2001|NPMHU Local Union 329|Advances|Future Dues|Remainder of funds|424275|334236|6217|96256|0|486952
@@ -2327,7 +2327,7 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 39946|2002|All Other Loans| | | ||||||489387
 39062|2001|NJ H&GCL DISTRICT COUNCIL|PAY MEETING EXPENSES|NONE|UPON DEMAND|0|0|2960|2960|0|486798
 39064|2002|All Other Loans| | | ||||||486798
-39063|2001|CHARLES A. MOSIER "O"|INADVERT. PERS. EXP.|NONE|IMMEDIATE|0|0|360|360|0|486798
+39063|2001|CHARLES A. MOSIER O|INADVERT. PERS. EXP.|NONE|IMMEDIATE|0|0|360|360|0|486798
 35120|2002|All Other Loans| | | ||||||464990
 37587|2002|All Other Loans| | | ||||||476875
 40264|2002|All Other Loans| | | ||||||489846

@@ -109,7 +109,6 @@ def main():
     out_df = pd.concat(out_df, ignore_index=True)
 
     out_df['YEAR'] = out_df['YEAR'].astype('int')
-    out_df = out_df.sort_values('LAST_NAME')
     out_df = check_change(out_df)
     out_df.to_csv('raw_data.csv')
 

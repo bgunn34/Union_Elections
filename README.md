@@ -1,6 +1,11 @@
 # Union Elections
 A data gathering, cleaning, and analysis project to discover the rate of churn among USA labor union leadership. 
 
+#### TLDR: If you're just here for the results, they can be found in the data folder. The raw data is in data/MainArchive. Read below for a play by play of my thought process as I was working on this project. Thanks for reading!
+
+--------------------------------------
+1/25/21
+
 Our main datasource is going to be the US Department of Labor and their wonderful [website.](https://olmsapps.dol.gov/olpdr/) 
 
 The "Yearly Data Download pulls zip archives filled with pipe delimited text documents. These will be the best way to pull the data. I will worry about automating this process for updates down the line. For now I am going to just pull the data manually.
@@ -15,7 +20,7 @@ Based on this sample [form](https://olmsapps.dol.gov/query/orgReport.do?rptId=73
 
 I really shouldn't be surprised, but there are random double quotes all over the first file I tried to look at. I'll need to write something to get rid of those eventually, but for now I'll just clear the things out of the 2020 file with find/replace.
 
-TODO: write a ksh or zsh script to pull all the files you actually want out of the archives. That way we can keep from getting too cluttered.
+~~TODO: write a ksh or zsh script to pull all the files you actually want out of the archives. That way we can keep from getting too cluttered.~~
 
 ~~TODO: write a ksh, zsh, or python script to clear out quotes (") from all files.~~
 
@@ -71,9 +76,43 @@ Much better! That's EDA about done. Time to do some data engineering and do all 
 Holy hell the 2015 file is a mess. I got all the quotes out of all the files, but the 2015 file alone was killing me. There were just random delimiter characters on some random lines. Had to remove them manually. Thankfully that is all done now. 
 
 ----------------------------------------------------------
+1/27/21
 
 So! I have been wrestling with this for a while but I think that I got it. The question is how to go about distinguishing a change in leadership for a given organization. 
 
 At first, I was trying to go record by record and check to see if the name matched for the same F_NUM and TITLE the previous year, but at ~4 million records, this would have taken more than a week on my M1 Mac mini. It figures, as iterating over records is an anti pattern in Pandas. So I needed to find a way to vectorize.
 
 I realized that if I could slice the df in such a way that I only got the records where there had been a change, I could set an indicator on all of them fairly quickly, then add them back into the original df. Following that logic, I arrived at the below.
+
+    def check_change(df):
+        df.sort_values('YEAR').reset_index()
+        df['CHANGE'] = 0
+
+        change_df = df.drop_duplicates(subset=['FIRST_NAME','LAST_NAME','F_NUM','TITLE'])
+        change_df = change_df.loc[change_df['YEAR'] != 2000]
+        
+        df.loc[df.index.isin(change_df.index),'CHANGE'] = 1
+
+        return df
+
+It seems simple in retrospect, but that took me way too long to come up with. 
+
+Finally, we just have to pivot to results. I took a look at all titles in the "officers" category that I had come up with, but there seemed to be an awful lot of positons out there. So I saved another set of tables looking only at the following positions:
+
+    p_suite = [
+            'PRESIDENT',
+            'VICE PRESIDENT',
+            'VICE-PRESIDENT',
+            'TRUSTEE',
+            'EXECUTIVE BOARD',
+            'EXECUTIVE BOARD MEMBER',
+            'EXECUTIVE COMMITTEE',
+            'BOARD OF DIRECTORS',
+            'TREASURER',
+            'RECORDING SECRETARY',
+            'SECRETARY',
+        ]
+
+My thinking is that these represent more "power shifting" than an organizer position being filled or something like that. 
+
+That's all for now. I may add some visualizations at some point, but the main work is done. If you have read to this point, I thank you. Goodnight!

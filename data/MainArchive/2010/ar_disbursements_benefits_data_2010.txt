@@ -4441,7 +4441,7 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 162325|Pension Contributions|RFPP and TAPP|17582956|451814
 158139|Hospitalization|Insurance Companies|30327043|450216
 158140|Life & Long-Term Care Insurance|Insurance Companies|2544296|450216
-158141|Medicare Part "B"|Retired Individuals|2126155|450216
+158141|Medicare Part B|Retired Individuals|2126155|450216
 158142|Pension|Pension Trusts|31223343|450216
 158143|Relocation and Transportation|Moving Companies/Individuals|162378|450216
 158144|Workers' Compensation|Insurance Companies|715877|450216
@@ -6275,7 +6275,7 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 150683|Health, Life, Disability, Dental and Vision|Steamfitters 464 Welfare Fund|68394|444503
 150684|Retirement Benefits Defined Contribution|Steamfitters 464 Annuity Fund|17706|444503
 159523|PENSION BENEFITS|CENTRAL STATES PENSION FUND|66104|450741
-159524|HEALTH & WELEFARE BENEFITS|"                      "                 "        |55530|450741
+159524|HEALTH & WELEFARE BENEFITS|                                               |55530|450741
 163195|MEDICAL & DENTAL|NATIONAL IAM BENFIT TRUST|95879|452275
 163196|MEDICAL|BLUE CROSS OF NORTHEASTERN PA|78993|452275
 163197|MEDICAL|HORIZON BLUE CROSS OF NJ|2398|452275
@@ -8029,7 +8029,7 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 164292|Pension|Liuna|40453|457904
 164293|Pension|Laborers National Pension Fund|10588|457904
 164294|Health and Welfare|Colorado Laborers Trust Fund|29583|457904
-160312|Office "Secretary Saving Plan and Life Insurance|Chase Bank and Globe Life Insurance|1677|451076
+160312|Office Secretary Saving Plan and Life Insurance|Chase Bank and Globe Life Insurance|1677|451076
 145641|Pension|BM Blacksmith NTL Pension Trus|28600|436330
 145642|Annuity|BM Blacksmith NTL Annuity Trus|7488|436330
 145643|Health & Welfare|BM NTL Health & Welfare Trust|28749|436330
@@ -9608,7 +9608,7 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 153125|Health & Welfare|Puget Sound Benefits Trust|173035|447006
 153126|Pension|Western State OPEIU Pension|127630|447006
 153127|Health & Welfare|Individual Employees|3384|447006
-158944|PENSION|UNITED TEAMSTER PENSION FUND "A"|62333|450440
+158944|PENSION|UNITED TEAMSTER PENSION FUND A|62333|450440
 158945|HEALTH & WELFARE|UNITED TEAMSTER FUND|76382|450440
 152494|Officers & Employees Pension Fund|LU Officers & Employees Pension Fund|86509|446551
 152495|National Pension Fund|Plumbers & Pipefitters National Pension|39545|446551
@@ -14578,15 +14578,15 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 151395|WELFARE|HORIZON BC/BS OF NEW JERSEY|15013|445411
 151396|PENSION|MERRIL LYNCH|4250|445411
 151397|PENSION|CITY SMITH BARNEY|5460|445411
-149695|Local 17 Education|"|1430|441741
-149696|Annuity|"|9100|441741
+149695|Local 17 Education||1430|441741
+149696|Annuity||9100|441741
 149697|Federal Unemployment Tax|IRS|289|441741
 149698|State Unemployment Tax|State of Ohio|612|441741
-149699|Bureau of Workmans Comp|"|1136|441741
+149699|Bureau of Workmans Comp||1136|441741
 149700|Officers Benefits|I.U.E.C.|5624|441741
 149692|Local 17 Work Preservation Fund|I.U.E.C.|520|441741
-149693|Local 17 Welfare|"|26065|441741
-149694|Local 17 Pension|"|15496|441741
+149693|Local 17 Welfare||26065|441741
+149694|Local 17 Pension||15496|441741
 149691|Local 17 Death Fund|Members Benificiary|6850|441741
 159393|PENSION|LOCAL 773 PENSION FUND|50479|450685
 159394|PENSION|UNITED ASSOCIATION PENSION|51951|450685
@@ -14902,7 +14902,7 @@ OID|DESCRIPTION|PAID_TO|AMOUNT|RPT_ID
 147384|Workers Compensation Insurance|State Comp Insurance Fund|864|438528
 147385|Health and Welfare Benefits|Stationary Engineers Local 39|11871|438528
 147386|Pension - Defined Benefit|Stationary Engineers Local 39|8334|438528
-147387|Pension - Defined Contribution ("Annuity")|Stationary Engineers Local 39|930|438528
+147387|Pension - Defined Contribution (Annuity)|Stationary Engineers Local 39|930|438528
 154347|PENSION - HEALTH & WELFARE|U.A. LOCAL 447 PIPE TRADES FUND|25220|448335
 154348|PENSION|U.A. LOCAL UNIO OFCRS & EMPLOYEES PENSION|91524|448335
 154349|PENSION - HEALTH & WELFARE|U.A. LOCAL 343 TRUST FUNDS|56746|448335

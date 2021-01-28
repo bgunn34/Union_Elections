@@ -3347,7 +3347,7 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 22035|Prepaid Insurance|15139|378253
 22036|Prepaid Legal Fees|15500|378253
 22829|Clocks  (Retirees gifts)  (47)|1188|380867
-22835|Local #245 "50th Anniv" T-shirts  (0)|0|380867
+22835|Local #245 50th Anniv T-shirts  (0)|0|380867
 22834|UAW Portfolio pads    (95)    (Display case)|481|380867
 22833|UAW Hitch covers  (6)      (Display case)|114|380867
 22832|T-shirts  (Union Pride)  (23)     (Display case)|266|380867

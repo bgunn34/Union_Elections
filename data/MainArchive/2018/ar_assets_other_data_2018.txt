@@ -56,7 +56,7 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 82977|PREPAID EXPENSE|1939|694523
 81785|Literature Department Inventory & Earmarked Funds|72183|684225
 81787|GHQ Undeposited Funds|17053|684225
-81786|GHQ "Total Other Assets" Office Rental Deposit|1100|684225
+81786|GHQ Total Other Assets Office Rental Deposit|1100|684225
 83326|Rent Deposit|14648|695844
 85105|5 Bibles|150|700297
 85173|Bibles|1170|700831
@@ -3029,10 +3029,10 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 83381|Prepaid Employee Benefit Plan Contributions|918|695991
 83380|Prepaid Legal Fees|18000|695991
 83358|Bibles (42)|1467|695963
-83362|Local 245 black  "P.B.R." shirts (44)|626|695963
+83362|Local 245 black  P.B.R. shirts (44)|626|695963
 83361|Local 245 winter knit caps (9)|74|695963
 83360|Local 245 Sweatshirts - multiple colors (38)|1444|695963
-83359|Local 245 "Solidarity" Red T-shirts (44)|796|695963
+83359|Local 245 Solidarity Red T-shirts (44)|796|695963
 83257|Deposits on Assets|25|695640
 81399|BUILDING ELECT. WORKERS HOME ASSOCIATION, INC.|31091|683604
 81401|FURNITURE & FIXTURES ELECT. WKRS. HOME ASSOC. INC.|2064|683604

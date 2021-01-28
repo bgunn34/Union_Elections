@@ -682,7 +682,7 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 4103|Prepaid Insurance|251|278045
 2666|NONE|0|272419
 1510|Employee Expense Advance|8500|268312
-1509|ABC Deposit of "Hard Money'-U.F.C.W. International|-4105|268312
+1509|ABC Deposit of Hard Money'-U.F.C.W. International|-4105|268312
 1513|Utility Deposit|440|268312
 1512|Accrued Interest|359|268312
 1511|Prepaid Expense|2252|268312

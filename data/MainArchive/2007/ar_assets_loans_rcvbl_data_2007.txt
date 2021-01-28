@@ -271,7 +271,7 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 14450|2002|All Other Loans||||0|0|0|0|0|350633
 12256|2001|Various members|Strike loans|None|180 Day Maturity|1300|1300|0|0|0|337995
 12257|2002|All Other Loans||||0|0|0|0|0|337995
-15750|2001|Freddy Rodriguez "O"|Personal Loan|None|None|0|1000|1000|0|0|358593
+15750|2001|Freddy Rodriguez O|Personal Loan|None|None|0|1000|1000|0|0|358593
 15751|2002|All Other Loans||||0|0|0|0|0|358593
 14913|2001|NONE|NONE|NONE|NONE|0|0|0|0|0|351549
 14914|2002|All Other Loans||||0|0|0|0|0|351549
@@ -755,9 +755,9 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 13906|2001|Loal Lodge S9|Operating Funds|None|ASAP|235|235|0|0|0|349517
 13908|2002|All Other Loans||||0|0|0|0|0|349517
 13907|2001|Local Lodge S46|Building Repairs|None|ASAP|4700|4700|0|0|0|349517
-11278|2001|JOHN CZERWINSKI "O"|ADVANCE|NONE|ON DEMAND|1617|0|0|1617|0|335274
+11278|2001|JOHN CZERWINSKI O|ADVANCE|NONE|ON DEMAND|1617|0|0|1617|0|335274
 11280|2002|All Other Loans||||25|100|214|139|0|335274
-11279|2001|JOHN CZERWINSKI "O"|ADVANCE|NONE|ON DEMAND|0|0|1419|1419|0|335274
+11279|2001|JOHN CZERWINSKI O|ADVANCE|NONE|ON DEMAND|0|0|1419|1419|0|335274
 13474|2001|Ron Dudley|Personal|None|Monthly|600|450|0|150|0|347892
 13473|2001|Jeff Carrender|Personal|none|Monthly|0|250|2500|2250|0|347892
 13480|2002|All Other Loans||||0|0|0|0|0|347892
@@ -1444,8 +1444,8 @@ $4,644 per month|645690|629287|0|16403|0|334057
 10362|2002|All Other Loans||||0|0|0|0|0|329684
 10361|2001|WGAE FOUNDATION|DEPOSIT ERROR|0|NONE|0|5569|5569|0|0|329684
 10360|2001|MATT GRAHAM|RESIDUAL OVERPAYMENT|0|NONE|0|4595|4595|0|0|329684
-10359|2001|SINDY GORDON  "E"|ADVANCE|0|NONE|0|0|14|14|0|329684
-10358|2001|SHANTELL SIMPSON  "E"|PAYROLL ADVANCE|0|NONE|1172|0|0|1172|0|329684
+10359|2001|SINDY GORDON  E|ADVANCE|0|NONE|0|0|14|14|0|329684
+10358|2001|SHANTELL SIMPSON  E|PAYROLL ADVANCE|0|NONE|1172|0|0|1172|0|329684
 10357|2001|WRITERS GUILD INDUSTRY HEALTH|ADVANCE|0|NONE|24526|3478|35839|56887|0|329684
 10356|2001|BRANDON WARD|STRIKE FUND|0|0|700|700|0|0|0|329684
 10355|2001|JOHN FORD NOONAN|STRIKE FUND|0|0|2000|2000|0|0|0|329684
@@ -1642,21 +1642,21 @@ $4,644 per month|645690|629287|0|16403|0|334057
 10595|2001|RICKEY PUTMAN|ADVANCE|NONE|ON DEMAND|0|845|2000|0|1155|332289
 10594|2001|MARTIN KEEGAN|ADVANCE|NONE|ON DEMAND|0|0|2000|0|2000|332289
 10593|2001|ERNESTINE MCPHERSON|ADVANCE|NONE|ON DEMAND|0|1384|3309|0|1925|332289
-17454|2001|Joey Johnson "O"|Travel Advance|None|Due on demand|500|500|0|0|0|367832
+17454|2001|Joey Johnson O|Travel Advance|None|Due on demand|500|500|0|0|0|367832
 17468|2002|All Other Loans||||0|500|500|0|0|367832
-17467|2001|Beth Klein "E"|Travel Advance|None|Due on demand|500|500|0|0|0|367832
-17466|2001|Terry Leeper "E"|Travel Advance|None|Due on demand|500|500|0|0|0|367832
-17465|2001|Ronnie Stutts "O"|Travel advance|None|Due on demand|500|500|0|0|0|367832
-17464|2001|Susan Knapp "E"|Travel Advance|None|Due on demand|500|500|0|0|0|367832
-17463|2001|Kurtis Buttars "E"|Travel advance|None|Due on demand|500|500|0|0|0|367832
-17462|2001|Jeanette Dwyer "O"|Travel Advance|None|Due on demand|500|500|0|0|0|367832
-17461|2001|Don Pitts "O"|Travel Advance|None|Due on demand|500|500|0|0|0|367832
-17460|2001|Bill Gordon "O"|Travel Advance|None|Due on demand|500|500|0|0|0|367832
-17459|2001|Francis Raimer "O"|Travel Advance|None|Due on demand|500|500|0|0|0|367832
-17458|2001|Don Cantriel "O"|Travel Advance|None|Due on demand|500|500|0|0|0|367832
-17457|2001|Clifford Anderson "O"|Travel Advance|None|Due on demand|500|500|0|0|0|367832
-17456|2001|Clifford Dailing "O"|Travel Advance|None|Due on demand|500|500|0|0|0|367832
-17455|2001|Debbie Williams "E"|Travel Advance|None|Due on demanf|500|500|0|0|0|367832
+17467|2001|Beth Klein E|Travel Advance|None|Due on demand|500|500|0|0|0|367832
+17466|2001|Terry Leeper E|Travel Advance|None|Due on demand|500|500|0|0|0|367832
+17465|2001|Ronnie Stutts O|Travel advance|None|Due on demand|500|500|0|0|0|367832
+17464|2001|Susan Knapp E|Travel Advance|None|Due on demand|500|500|0|0|0|367832
+17463|2001|Kurtis Buttars E|Travel advance|None|Due on demand|500|500|0|0|0|367832
+17462|2001|Jeanette Dwyer O|Travel Advance|None|Due on demand|500|500|0|0|0|367832
+17461|2001|Don Pitts O|Travel Advance|None|Due on demand|500|500|0|0|0|367832
+17460|2001|Bill Gordon O|Travel Advance|None|Due on demand|500|500|0|0|0|367832
+17459|2001|Francis Raimer O|Travel Advance|None|Due on demand|500|500|0|0|0|367832
+17458|2001|Don Cantriel O|Travel Advance|None|Due on demand|500|500|0|0|0|367832
+17457|2001|Clifford Anderson O|Travel Advance|None|Due on demand|500|500|0|0|0|367832
+17456|2001|Clifford Dailing O|Travel Advance|None|Due on demand|500|500|0|0|0|367832
+17455|2001|Debbie Williams E|Travel Advance|None|Due on demanf|500|500|0|0|0|367832
 14304|2001|NPMHU Local Union 298|Advances|Future Dues|$2,000 Monthly|198212|182932|8720|24000|0|350556
 14311|2002|All Other Loans||||0|0|0|0|0|350556
 14310|2001|Robert Losi - E|Deposit - bank error|None|Immediately - see Item 69|1021|0|0|1021|0|350556
@@ -2078,19 +2078,19 @@ $4,644 per month|645690|629287|0|16403|0|334057
 15827|2001|Local 1233 Building Company|building improvement|building|N/A|104022|603482|499460|0|0|359911
 15829|2002|All Other Loans||||0|0|0|0|0|359911
 15828|2001|Local 1233 Scholarship Fund|fundraising|N/A|N/A|0|10000|10000|0|0|359911
-16048|2001|S.A.Salinas "O"|Payroll drawcheck|Wages|Payroll deduction|0|0|550|550|0|361636
-16036|2001|J.J.Schroeder "M"|Payroll drawcheck|Wages|Payroll deduction|0|0|900|900|0|361636
-16047|2001|M.J.Pedregosa "O"|Payroll drawcheck|Wages|Payroll deduction|0|0|300|300|0|361636
-16046|2001|L.Scanlon "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|2150|2150|0|361636
-16045|2001|F.T.Prockiw "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
-16044|2001|E.Musinovic "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
-16043|2001|M.A. Mitcham "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
-16042|2001|D.E.Lyne "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|2550|2550|0|361636
-16041|2001|E.Hankic "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
-16040|2001|C.L.Fassler "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
-16039|2001|J.M.Duenas "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
-16038|2001|J.Calleja "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
-16037|2001|L.G.Benefiel "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|550|550|0|361636
+16048|2001|S.A.Salinas O|Payroll drawcheck|Wages|Payroll deduction|0|0|550|550|0|361636
+16036|2001|J.J.Schroeder M|Payroll drawcheck|Wages|Payroll deduction|0|0|900|900|0|361636
+16047|2001|M.J.Pedregosa O|Payroll drawcheck|Wages|Payroll deduction|0|0|300|300|0|361636
+16046|2001|L.Scanlon E|Payroll drawcheck|Wages|Payroll deduction|0|0|2150|2150|0|361636
+16045|2001|F.T.Prockiw E|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
+16044|2001|E.Musinovic E|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
+16043|2001|M.A. Mitcham E|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
+16042|2001|D.E.Lyne E|Payroll drawcheck|Wages|Payroll deduction|0|0|2550|2550|0|361636
+16041|2001|E.Hankic E|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
+16040|2001|C.L.Fassler E|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
+16039|2001|J.M.Duenas E|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
+16038|2001|J.Calleja E|Payroll drawcheck|Wages|Payroll deduction|0|0|450|450|0|361636
+16037|2001|L.G.Benefiel E|Payroll drawcheck|Wages|Payroll deduction|0|0|550|550|0|361636
 16049|2002|All Other Loans||||0|0|150|150|0|361636
 11393|2001|NOT APPLICABLE|NOT APPLICABLE|NOT APPLICABLE|NOT APPLICABLE|0|0|0|0|0|335461
 11394|2002|All Other Loans||||0|0|0|0|0|335461
@@ -2475,9 +2475,9 @@ INT RATE OF 5.5%|0|9785|11637|1852|0|336034
 13796|2001|NONE|NONE|NONE|NONE|0|0|0|0|0|348977
 18426|2001|Plan de Bienestar|Pmts on behalf of Pl|None|10|50429|50429|0|0|0|371053
 18427|2002|All Other Loans||||0|0|0|0|0|371053
-13463|2001|Carolyn Williams, "O"|Unauthorized Advance|None|None|0|3158|13883|10725|0|347878
+13463|2001|Carolyn Williams, O|Unauthorized Advance|None|None|0|3158|13883|10725|0|347878
 13465|2002|All Other Loans||||0|0|0|0|0|347878
-13464|2001|Dolores Appling, "O"|Unauthorized Advance|None|None|0|635|1244|609|0|347878
+13464|2001|Dolores Appling, O|Unauthorized Advance|None|None|0|635|1244|609|0|347878
 15555|2001|TEAMSTERS LOCAL NO. 372|ELECTION EXPENSES|NONE|MONTHLY|1050|0|0|1050|0|356845
 15556|2002|All Other Loans||||0|0|0|0|0|356845
 58835|2002|All Other Loans| | | ||||||556545

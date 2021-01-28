@@ -752,7 +752,7 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 3936|2001|Local Lodge S46|Building Repairs|None|ASAP|4700|4700|0|0|0|280682
 3935|2001|Local Lodge S9|Operating Funds|None|ASAP|235|235|0|0|0|280682
 3937|2002|All Other Loans||||0|0|0|0|0|280682
-683|2001|ANTHONY PAPILI "O"|ADVANCE|NONE|ON DEMAND|0|0|1085|1085|0|250935
+683|2001|ANTHONY PAPILI O|ADVANCE|NONE|ON DEMAND|0|0|1085|1085|0|250935
 684|2002|All Other Loans||||0|0|0|0|0|250935
 6766|2001|Jeff Carrender|Personal|None|Monthly|0|1440|2400|960|0|304542
 6761|2001|William Fairweather|Personal|none|monthly|500|300|0|200|0|304542
@@ -825,7 +825,7 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 2178|2002|All Other Loans||||0|0|0|0|0|272093
 422|2001|CARPENTERS LOCAL 464|START UP COSTS|NONE|NONE|3815|0|0|3815|0|248870
 423|2002|All Other Loans||||0|0|0|0|0|248870
-3704|2001|Cecily LaFrance "O"|cell phone overusage|payroll|payroll deduction|0|0|254|0|254|278045
+3704|2001|Cecily LaFrance O|cell phone overusage|payroll|payroll deduction|0|0|254|0|254|278045
 3705|2002|All Other Loans||||157|157|0|0|0|278045
 4170|2001|TARAH MOSCOWITZ|EMPLOYEE LOAN|NONE|P/R WITHHOLDING|1179|0|0|1179|0|283551
 4176|2002|All Other Loans||||0|0|0|0|0|283551
@@ -2072,12 +2072,12 @@ show|15000|15000|0|0|0|300349
 4356|2001|William Hamilton|Death Ben Advance|none|$83.11 per month|1000|245|0|755|0|292817
 5710|2001|I.L.A. Building Company|purchase building|building|indefinite|197969|0|0|197969|0|299788
 5711|2002|All Other Loans||||0|0|0|0|0|299788
-4724|2001|Linda G Benefiel "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|500|500|0|296994
+4724|2001|Linda G Benefiel E|Payroll drawcheck|Wages|Payroll deduction|0|0|500|500|0|296994
 4729|2002|All Other Loans||||0|0|0|0|0|296994
-4728|2001|Robert S Taylor "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|375|375|0|296994
-4727|2001|Linda Scanlon "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|500|500|0|296994
-4726|2001|Marilyn A Mitcham "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|865|865|0|296994
-4725|2001|Doreen E Lyne "E"|Payroll drawcheck|Wages|Payroll deduction|0|0|500|500|0|296994
+4728|2001|Robert S Taylor E|Payroll drawcheck|Wages|Payroll deduction|0|0|375|375|0|296994
+4727|2001|Linda Scanlon E|Payroll drawcheck|Wages|Payroll deduction|0|0|500|500|0|296994
+4726|2001|Marilyn A Mitcham E|Payroll drawcheck|Wages|Payroll deduction|0|0|865|865|0|296994
+4725|2001|Doreen E Lyne E|Payroll drawcheck|Wages|Payroll deduction|0|0|500|500|0|296994
 2764|2001|None|N/A|N/A|N/A|0|0|0|0|0|273596
 2765|2002|All Other Loans||||0|0|0|0|0|273596
 724|2001|NOT APPLICABLE|NOT APPLICABLE|NOT APPLICABLE|NOT APPLICABLE|0|0|0|0|0|252257
@@ -2489,7 +2489,7 @@ Paid off 4/2005|460405|0|0|460405|0|248769
 3079|2002|All Other Loans||||0|0|0|0|0|273771
 58839|2001|American Families United|working capital|note|Due 8/31/06|0|35000|35000|0|0|556566
 58840|2002|All Other Loans| | | |0|0|0|0|0|556566
-3043|2001|GEORGE CAMPBELL "E"|EXPENSE ADVANCE|N/A|PAID 3/25/05|1525|0|0|1525|0|273739
+3043|2001|GEORGE CAMPBELL E|EXPENSE ADVANCE|N/A|PAID 3/25/05|1525|0|0|1525|0|273739
 3044|2002|All Other Loans||||0|0|0|0|0|273739
 5824|2001|PLUMBERS APPRENTICES|WORKING CAPITAL|NONE|DEMAND|14597|14597|0|0|0|300760
 5825|2002|All Other Loans||||0|0|0|0|0|300760
@@ -3187,11 +3187,11 @@ Paid off 4/2005|460405|0|0|460405|0|248769
 1237|2001|COL TYPO LO 101 CORP|OPERATIONAL|N/A-RELATED|NONE|54175|40693|0|13482|0|261750
 1238|2002|All Other Loans||||0|0|0|0|0|261750
 4245|2002|All Other Loans||||17443|0|0|17443|0|290126
-2708|2001|Walberto Lugo "E"|Expenses Paid|None|N/A|249|845|2047|1451|0|273396
+2708|2001|Walberto Lugo E|Expenses Paid|None|N/A|249|845|2047|1451|0|273396
 2712|2002|All Other Loans||||149|0|0|149|0|273396
-2711|2001|Jacinto Perez "E"|Expenses Paid|None|N/A|0|517|3039|2522|0|273396
-2710|2001|Camille Estick "E"|Expenses Paid|None|N?A|296|296|0|0|0|273396
-2709|2001|Hector Lopez "O"|Expenses Paid|None|N/A|1334|4330|3295|299|0|273396
+2711|2001|Jacinto Perez E|Expenses Paid|None|N/A|0|517|3039|2522|0|273396
+2710|2001|Camille Estick E|Expenses Paid|None|N?A|296|296|0|0|0|273396
+2709|2001|Hector Lopez O|Expenses Paid|None|N/A|1334|4330|3295|299|0|273396
 10558|2001|1515 Lyell Ave Corp|VARIOUS|EQUIPMENT|WITHIN12 MONTHS|2560|2560|0|0|0|332208
 10559|2002|All Other Loans||||0|0|0|0|0|332208
 7105|2001|Training & Education Fund|Training Equipment|none|30 days|1683|0|0|1683|0|307752

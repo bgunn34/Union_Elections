@@ -3085,8 +3085,8 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 64253|Prepaid Legal Fees|21000|609339
 64916|Bibles (16)|561|610483
 64922|Local 245 Sweatshirts (27)|914|610483
-64921|Local 245 "Solidarity" T-shirts (23 - Red)|295|610483
-64920|Local 245 "T" Shirts (9 - Black)|72|610483
+64921|Local 245 Solidarity T-shirts (23 - Red)|295|610483
+64920|Local 245 T Shirts (9 - Black)|72|610483
 64919|Vet Shirts (0)|0|610483
 64918|Tumblers (12)|26|610483
 64917|Clocks (0)|0|610483

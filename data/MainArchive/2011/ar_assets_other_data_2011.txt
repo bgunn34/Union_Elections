@@ -3094,8 +3094,8 @@ OID|DESCRIPTION|BOOK_VALUE|RPT_ID
 42698|SECURITY DEPOSIT|4310|488947
 40074|Prepaid Insurance|8889|475209
 40075|Prepaid Legal Fees|16750|475209
-42105|"Ford" license plate bracket/holders  (58)|72|486893
-42108|"UAW" Hitch covers  (3)      |57|486893
+42105|Ford license plate bracket/holders  (58)|72|486893
+42108|UAW Hitch covers  (3)      |57|486893
 42107|Bibles  (38)|1193|486893
 42106|Clocks (Retirees gifts)  (29)|733|486893
 40595|Utility Depost|2350|478024

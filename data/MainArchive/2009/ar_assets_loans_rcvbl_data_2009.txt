@@ -315,11 +315,11 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 28177|2001|none|n/a|n/a|n/a|0|0|0|0|0|430705
 28178|2002|All Other Loans||||0|0|0|0|0|430705
 31800|2002|All Other Loans| | | |0|0|0|0|0|446500
-30056|2001|Riker McKenzie "O"|Travel Advances|None|30 days|0|2890|6630|0|3740|438900
+30056|2001|Riker McKenzie O|Travel Advances|None|30 days|0|2890|6630|0|3740|438900
 30060|2002|All Other Loans| | | ||||||438900
-30059|2001|Daryl Wilburn "O"|Travel Advances|None|30 days|0|3073|6991|586|3332|438900
-30058|2001|Martin Von Lindenberg "O"|Travel Advances|None|30 days|0|2134|5924|119|3671|438900
-30057|2001|Earle McKnight "O"|Travel Advances|None|30 days|0|82|6719|1544|5093|438900
+30059|2001|Daryl Wilburn O|Travel Advances|None|30 days|0|3073|6991|586|3332|438900
+30058|2001|Martin Von Lindenberg O|Travel Advances|None|30 days|0|2134|5924|119|3671|438900
+30057|2001|Earle McKnight O|Travel Advances|None|30 days|0|82|6719|1544|5093|438900
 26090|2001|NA|NA|NA|NA|0|0|0|0|0|415808
 26093|2002|All Other Loans||||0|0|0|0|0|415808
 26092|2001|NA|NA|NA|NA|0|0|0|0|0|415808
@@ -1053,7 +1053,7 @@ RATED 30 YRS|0|78342|79000|658|0|406977
 24254|2002|All Other Loans||||0|0|0|0|0|405518
 23578|2001|NONE|NONE|NONE|NONE|0|0|0|0|0|403134
 23579|2002|All Other Loans||||0|0|0|0|0|403134
-27735|2001|Steven Scott "O"|Unauthorized exps.|No Security|asap|12707|0|0|12707|0|420820
+27735|2001|Steven Scott O|Unauthorized exps.|No Security|asap|12707|0|0|12707|0|420820
 27736|2002|All Other Loans||||0|0|0|0|0|420820
 27681|2001|UFSPO|ADVANCE|NONE|DEMAND|14521|15287|15287|14521|0|420704
 27682|2002|All Other Loans||||0|0|0|0|0|420704
@@ -2039,24 +2039,24 @@ INFORMATION|20000|14167|0|5833|0|400885
 26877|2001|Tina Ball|Advance|None|On Demand|0|1833|3000|0|1167|418893
 26386|2002|All Other Loans||||0|0|0|0|0|417513
 26385|2001|NATCA LOCAL ZME|Advance of Funds|None|On Demand|10000|10000|0|0|0|417513
-23911|2001|Robert Horne "O"|Travel Advance|None|Due on demand|0|500|500|0|0|403213
-23897|2001|Joey Johnson "O"|Travel Advance|None|Due on demand|500|500|0|0|0|403213
-23910|2001|Ken Parmalee "E"|Travel Advance|None|Due on demand|500|500|0|0|0|403213
-23909|2001|Steven Traylor "O"|Travel Advance|None|Due on demand|500|500|0|0|0|403213
-23908|2001|Beth Klein "E"|Travel Advance|None|Due on demand|500|500|0|0|0|403213
-23907|2001|Ronnie Stutts "O"|Travel Advance|None|Due on demand|500|500|0|0|0|403213
-23906|2001|Susan Knapp "E"|Travel Advance|None|Due on demand|500|500|0|0|0|403213
-23905|2001|Kurtis Buttars "E"|Travel Advance|None|Due on demand|500|500|0|0|0|403213
-23904|2001|Jeanette Dwyer "O"|Travel Advance|None|Due on demand|500|500|0|0|0|403213
-23903|2001|Don Pitts "O"|Travel Advance|None|Due on demand|500|0|0|500|0|403213
-23902|2001|Bill Gordon "O"|Travel Advance|None|Due on demand|500|0|0|500|0|403213
-23901|2001|Don Cantriel "O"|Travel Advance|None|Due on demand|500|500|0|0|0|403213
-23900|2001|Cifford Anderson "O"|Travel Advance|None|Due on demand|500|0|0|500|0|403213
-23899|2001|Clifford Dailing "O"|Travel Advance|None|Due on demand|500|500|0|0|0|403213
-23898|2001|Debbie Williams "E"|Travel Advance|None|Due on Demand|500|500|0|0|0|403213
+23911|2001|Robert Horne O|Travel Advance|None|Due on demand|0|500|500|0|0|403213
+23897|2001|Joey Johnson O|Travel Advance|None|Due on demand|500|500|0|0|0|403213
+23910|2001|Ken Parmalee E|Travel Advance|None|Due on demand|500|500|0|0|0|403213
+23909|2001|Steven Traylor O|Travel Advance|None|Due on demand|500|500|0|0|0|403213
+23908|2001|Beth Klein E|Travel Advance|None|Due on demand|500|500|0|0|0|403213
+23907|2001|Ronnie Stutts O|Travel Advance|None|Due on demand|500|500|0|0|0|403213
+23906|2001|Susan Knapp E|Travel Advance|None|Due on demand|500|500|0|0|0|403213
+23905|2001|Kurtis Buttars E|Travel Advance|None|Due on demand|500|500|0|0|0|403213
+23904|2001|Jeanette Dwyer O|Travel Advance|None|Due on demand|500|500|0|0|0|403213
+23903|2001|Don Pitts O|Travel Advance|None|Due on demand|500|0|0|500|0|403213
+23902|2001|Bill Gordon O|Travel Advance|None|Due on demand|500|0|0|500|0|403213
+23901|2001|Don Cantriel O|Travel Advance|None|Due on demand|500|500|0|0|0|403213
+23900|2001|Cifford Anderson O|Travel Advance|None|Due on demand|500|0|0|500|0|403213
+23899|2001|Clifford Dailing O|Travel Advance|None|Due on demand|500|500|0|0|0|403213
+23898|2001|Debbie Williams E|Travel Advance|None|Due on Demand|500|500|0|0|0|403213
 23914|2002|All Other Loans||||0|0|0|0|0|403213
-23913|2001|Barbara Callahan "E"|Travel Advance|None|Due on demand|0|500|500|0|0|403213
-23912|2001|Donald Matson "O"|Travel Advance|None|Due on demand|0|500|500|0|0|403213
+23913|2001|Barbara Callahan E|Travel Advance|None|Due on demand|0|500|500|0|0|403213
+23912|2001|Donald Matson O|Travel Advance|None|Due on demand|0|500|500|0|0|403213
 27256|2001|NPMHU Local Union 297|Advances|Future Dues|$12,500 Annually|0|50495|50495|0|0|419805
 27265|2002|All Other Loans||||0|0|0|0|0|419805
 27264|2001|NPMHU Local Union 329|Advances|Future Dues|$30,000 Annually|0|274613|274613|0|0|419805
@@ -2441,22 +2441,22 @@ ACC REMITS PMT|0|0|400|400|0|403273
 24849|2001|Local 1233 Scholarship Fund|fundraising|N/A|N/A|0|2700|2700|0|0|408789
 24077|2001|None|None|None|None|0|0|0|0|0|403768
 24078|2002|All Other Loans||||0|0|0|0|0|403768
-28004|2001|J Boyle "E"|advance|pay check|payroll deduction|0|0|2535|2535|0|426441
-28001|2001|E Montgomery "E"|advance|pay check|payroll deduction|0|0|1050|1050|0|426441
-28003|2001|L. Benefiel "E"|advance|pay check|payroll deduction|0|0|400|400|0|426441
-28002|2001|E Sokolski "E"|advance|pay check|payroll deduction|0|0|400|400|0|426441
+28004|2001|J Boyle E|advance|pay check|payroll deduction|0|0|2535|2535|0|426441
+28001|2001|E Montgomery E|advance|pay check|payroll deduction|0|0|1050|1050|0|426441
+28003|2001|L. Benefiel E|advance|pay check|payroll deduction|0|0|400|400|0|426441
+28002|2001|E Sokolski E|advance|pay check|payroll deduction|0|0|400|400|0|426441
 28016|2002|All Other Loans||||0|0|0|0|0|426441
-28015|2001|S Salinas "O"|advance|pay check|payroll deduction|0|0|2505|2505|0|426441
-28014|2001|M Pedregosa "O"|advance|pay check|payroll deduction|0|0|2790|2790|0|426441
-28013|2001|J Waldman "E"|advance|pay check|payroll deduction|0|0|4228|4228|0|426441
-28012|2001|L Scanlon "E"|advance|pay check|payroll deduction|0|0|2400|2400|0|426441
-28011|2001|J Quiroga "E"|advance|pay check|payroll deduction|0|0|400|400|0|426441
-28010|2001|F Prockiw "E"|advance|pay check|payroll deduction|0|0|1935|1935|0|426441
-28009|2001|E Musinovic "E"|advance|pay check|payroll deduction|0|0|2050|2050|0|426441
-28008|2001|D Lyne "E"|advance|pay check|payroll advance|0|0|400|400|0|426441
-28007|2001|Z Javalera "E"|advance|pay check|payroll advance|0|0|420|420|0|426441
-28006|2001|E Hankic "E"|advance|pay check|payroll deduction|0|0|2200|2200|0|426441
-28005|2001|J Duenas "E"|advance|pay check|payroll deduction|0|0|400|400|0|426441
+28015|2001|S Salinas O|advance|pay check|payroll deduction|0|0|2505|2505|0|426441
+28014|2001|M Pedregosa O|advance|pay check|payroll deduction|0|0|2790|2790|0|426441
+28013|2001|J Waldman E|advance|pay check|payroll deduction|0|0|4228|4228|0|426441
+28012|2001|L Scanlon E|advance|pay check|payroll deduction|0|0|2400|2400|0|426441
+28011|2001|J Quiroga E|advance|pay check|payroll deduction|0|0|400|400|0|426441
+28010|2001|F Prockiw E|advance|pay check|payroll deduction|0|0|1935|1935|0|426441
+28009|2001|E Musinovic E|advance|pay check|payroll deduction|0|0|2050|2050|0|426441
+28008|2001|D Lyne E|advance|pay check|payroll advance|0|0|400|400|0|426441
+28007|2001|Z Javalera E|advance|pay check|payroll advance|0|0|420|420|0|426441
+28006|2001|E Hankic E|advance|pay check|payroll deduction|0|0|2200|2200|0|426441
+28005|2001|J Duenas E|advance|pay check|payroll deduction|0|0|400|400|0|426441
 23533|2001|NOT APPLICABLE|NOT APPLICABLE|NOT APPLICABLE|NOT APPLICABLE|0|0|0|0|0|402973
 23534|2002|All Other Loans||||0|0|0|0|0|402973
 27442|2001|Local 43 Realty Corp.|Purchase & Imp. Bld|Subsidiary|Open|1644925|1544925|0|100000|0|420232

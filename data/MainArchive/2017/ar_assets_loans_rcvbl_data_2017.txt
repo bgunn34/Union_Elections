@@ -85,7 +85,7 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 89865|2002|All Other Loans| | | |0|0|0|0|0|669915
 90846|2002|All Other Loans| | | ||||||672672
 88491|2002|All Other Loans| | | |0|0|0|0|0|665221
-85932|2001|GABRIEL AYALA "O"|FAMILY AIRFARE EXP.|NONE|653.50 BY 8/10/15 THEN 300/MO|615|0|0|615||654682
+85932|2001|GABRIEL AYALA O|FAMILY AIRFARE EXP.|NONE|653.50 BY 8/10/15 THEN 300/MO|615|0|0|615||654682
 85933|2002|All Other Loans| | | ||||||654682
 88774|2001|Capernaum Baptist Church|Sale of Land |Land Lien|900/month|37800|27000|0|10800|0|666538
 88775|2002|All Other Loans| | | ||||||666538
@@ -1580,16 +1580,16 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 87572|2001|LOCAL 527|CONSTRUCTION LOAN|NONE|265/MO, 12/37||45750|45750|||658305
 87571|2001|LOCAL 225|WORKING CAPITAL|NONE|359/MO, 7/17|4876|0||4876||658305
 87570|2001|LOCAL 526|PURCHASE BUILDING|MORTGAGE|705/MO, 4/29|71722|67944||3778||658305
-89753|2001|Babb, Lauren "E"|Travel Advance|None|Upon Travel Completion|396|0|0|396|0|669709
+89753|2001|Babb, Lauren E|Travel Advance|None|Upon Travel Completion|396|0|0|396|0|669709
 89762|2002|All Other Loans| | | ||||||669709
-89761|2001|Stark, Karl "E"|Travel Advance|None|Upon Travel Completion|1775|0|0|1775|0|669709
-89760|2001|Jackson, Keith "E"|Travel Advance|None|Upon Travel Completion|1950|0|0|1950|0|669709
-89759|2001|Hennagan, Monique "E"|Travel Advance|None|Upon Travel Completion|3294|0|1296|4590|0|669709
-89758|2001|George, Patricia "E"|Travel Advance|None|Upon Travel Completion|0|0|3618|3618|0|669709
-89757|2001|Macias, Candelario "E"|Travel Advance|None|Upon Travel Completion|0|0|568|568|0|669709
-89756|2001|Avila, Anica "E"|Travel Advance|None|Upon Travel Completion|0|0|645|645|0|669709
-89755|2001|Jackson, Ceola "E"|Travel Advance|None|Upon Travel Completion|0|0|876|876|0|669709
-89754|2001|Lewis, Antonio "E"|Travel Advance|None|Upon Travel Completion|0|0|1385|1385|0|669709
+89761|2001|Stark, Karl E|Travel Advance|None|Upon Travel Completion|1775|0|0|1775|0|669709
+89760|2001|Jackson, Keith E|Travel Advance|None|Upon Travel Completion|1950|0|0|1950|0|669709
+89759|2001|Hennagan, Monique E|Travel Advance|None|Upon Travel Completion|3294|0|1296|4590|0|669709
+89758|2001|George, Patricia E|Travel Advance|None|Upon Travel Completion|0|0|3618|3618|0|669709
+89757|2001|Macias, Candelario E|Travel Advance|None|Upon Travel Completion|0|0|568|568|0|669709
+89756|2001|Avila, Anica E|Travel Advance|None|Upon Travel Completion|0|0|645|645|0|669709
+89755|2001|Jackson, Ceola E|Travel Advance|None|Upon Travel Completion|0|0|876|876|0|669709
+89754|2001|Lewis, Antonio E|Travel Advance|None|Upon Travel Completion|0|0|1385|1385|0|669709
 86579|2002|All Other Loans| | | |0|0|0|0|0|656315
 85517|2001|Michael Winship|Personal charges|none|none|0|0|2625|2625|0|652593
 85526|2002|All Other Loans| | | |||568|568||652593
@@ -2646,7 +2646,7 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 90523|2001|Shawn Martin|Personal|None|Variable|900|1200|1200|900|0|671544
 90522|2001|Scott Logan|Personal|None|Variable|0|0|300|300|0|671544
 89147|2002|All Other Loans| | | |0|0|0|0|0|668065
-89649|2001|DOUG BLOCH "E"|SEE ITEM 69|0|REPAID MARCH 2017|894|0|0|894|0|669423
+89649|2001|DOUG BLOCH E|SEE ITEM 69|0|REPAID MARCH 2017|894|0|0|894|0|669423
 89650|2002|All Other Loans| | | ||||||669423
 86914|2002|All Other Loans| | | ||||||656750
 88515|2002|All Other Loans| | | ||||||665350
@@ -3366,7 +3366,7 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 90486|2002|All Other Loans| | | ||||||671395
 85606|2001|215 Old Nyack Tnpke Holdings|Loan|Buiding at 215 Old|Monthly Repayments|680411|666289|0|14122||653915
 85607|2002|All Other Loans| | | ||||||653915
-89036|2001|JON FLEGEL "E"|TRAVEL ADVANCE|PROMISSORY NOTE|AT TERMINATION|500|100|0|400|0|667617
+89036|2001|JON FLEGEL E|TRAVEL ADVANCE|PROMISSORY NOTE|AT TERMINATION|500|100|0|400|0|667617
 89037|2002|All Other Loans| | | ||||||667617
 89019|2001|IUOE|Training Center|Note|Due 8/31/2019 2.00% Interest|250000|250000||||667444
 89021|2002|All Other Loans| | | ||||||667444
@@ -4523,7 +4523,7 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 90149|2001|Linda Arnold|Campaign Petty Cash|n/a|prepaid 2017|1607|0|0|1607|0|670783
 90148|2001|Pat Thomas|travel|n/a|N/A|320|0|0|320|0|670783
 90147|2001|Niambe Kafele|Overpayment|n/a|monthly|636|586|0|50|0|670783
-87617|2001|Richard D'Antuono    "O"|Unauthorized payment|none|none|52816|209696|156880|0|0|658605
+87617|2001|Richard D'Antuono    O|Unauthorized payment|none|none|52816|209696|156880|0|0|658605
 87618|2002|All Other Loans| | | ||||||658605
 89626|2002|All Other Loans| | | ||||||669329
 85138|2001|I Gorman (Tenant)|Lease Restructured|None|36 Month Amortization @ 8%|28704|0|0|28704|0|649202

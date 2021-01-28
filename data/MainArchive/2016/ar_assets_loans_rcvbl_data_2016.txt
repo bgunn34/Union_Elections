@@ -91,11 +91,11 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 83458|2002|All Other Loans| | | |0|||||641158
 84620|2002|All Other Loans| | | ||||||643435
 82578|2002|All Other Loans| | | |0|0|0|0|0|638881
-79636|2001|GABRIEL AYALA"O"|FAMILY AIRFARE EXP.|NONE|653.50 BY 8/10/15 THEN 300/MO|1754|615||1139||627528
+79636|2001|GABRIEL AYALAO|FAMILY AIRFARE EXP.|NONE|653.50 BY 8/10/15 THEN 300/MO|1754|615||1139||627528
 79640|2002|All Other Loans| | | ||||||627528
-79639|2001|GEORGE RIVERA "E"|FAMILY AIRFARE EXP|NONE|OPEN|583|0||583||627528
-79638|2001|CHERYL STOFFEL "O"|FAMILY AIRFARE EXP|NONE|OPEN|583|0||583||627528
-79637|2001|FRANK VASQUEZ "E"|FAMILY AIRFARE EXP.|NONE|OPEN|583|0||583||627528
+79639|2001|GEORGE RIVERA E|FAMILY AIRFARE EXP|NONE|OPEN|583|0||583||627528
+79638|2001|CHERYL STOFFEL O|FAMILY AIRFARE EXP|NONE|OPEN|583|0||583||627528
+79637|2001|FRANK VASQUEZ E|FAMILY AIRFARE EXP.|NONE|OPEN|583|0||583||627528
 82306|2001|Capernaum Baptist Church|Sale of Land|Lien Land|900/month|48600|37800|0|10800|0|638174
 82307|2002|All Other Loans| | | |0|0|0|0|0|638174
 82104|2001|NALC Building Corp|Purchase of building|None|January 7, 2018|75076|75076||||637412
@@ -1523,31 +1523,31 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 80955|2001|LOCAL 225|WORKING CAPITAL|NONE|NONE|8995|4876||4119||629631
 85103|2002|All Other Loans| | | |0|||||648939
 84934|2002|All Other Loans| | | |0|0|0|0|0|646294
-82881|2001|Day, Shondale "E"|Travel Advance|None|Upon Travel Completion|0|0|450|450|0|639834
-82875|2001|Babb, Lauren "E"|Travel Advance|None|Upon Travel Completion|0|396|396|0|0|639834
-82880|2001|Curry, David "E"|Travel Advance|None|Upon Travel Completion|0|0|680|680|0|639834
-82879|2001|Cottrell, Eugenia "E"|Travel Advance|None|Upon Travel Completion|0|0|975|975|0|639834
-82878|2001|Burks, Sherri "E"|Travel Advance|None|Upon Travel Completion|0|0|416|416|0|639834
-82877|2001|Blevins, Lisa "E"|Travel Advance|None|Upon Travel Completion|0|0|525|525|0|639834
-82876|2001|Bernstein, Frances "E"|Travel Advance|None|Upon Travel Completion|0|0|1125|1125|0|639834
+82881|2001|Day, Shondale E|Travel Advance|None|Upon Travel Completion|0|0|450|450|0|639834
+82875|2001|Babb, Lauren E|Travel Advance|None|Upon Travel Completion|0|396|396|0|0|639834
+82880|2001|Curry, David E|Travel Advance|None|Upon Travel Completion|0|0|680|680|0|639834
+82879|2001|Cottrell, Eugenia E|Travel Advance|None|Upon Travel Completion|0|0|975|975|0|639834
+82878|2001|Burks, Sherri E|Travel Advance|None|Upon Travel Completion|0|0|416|416|0|639834
+82877|2001|Blevins, Lisa E|Travel Advance|None|Upon Travel Completion|0|0|525|525|0|639834
+82876|2001|Bernstein, Frances E|Travel Advance|None|Upon Travel Completion|0|0|1125|1125|0|639834
 82899|2002|All Other Loans| | | ||||||639834
-82898|2001|Yanez, Getsemani "E"|Travel Advance|None|Upon Travel Completion|0|0|1125|1125|0|639834
-82897|2001|Stith, Kristopher "E"|Travel Advance|None|Upon Travel Completion|0|0|975|975|0|639834
-82896|2001|Stark, Karl "E"|Travel Advance|None|Upon Travel Completion|0|1775|2600|825|0|639834
-82895|2001|Smith, Brittany "E"|Travel Advance|None|Upon Travel Completion|0|0|792|792|0|639834
-82894|2001|Shaw-Samuels, Latisha "E"|Travel Advance|None|Upon Travel Completion|0|0|555|555|0|639834
-82893|2001|Seward, Angela "E"|Travel Advance|None|Upon Travel Completion|0|0|810|810|0|639834
-82892|2001|Schafer, Meredith "E"|Travel Advance|None|Upon Travel Completion|0|0|3764|3764|0|639834
-82891|2001|Sandbothe, Olivia "E"|Travel Advance|None|Upon Travel Completion|0|0|1161|1161|0|639834
-82890|2001|Levin, Rebecca "E"|Travel Advance|None|Upon Travel Completion|0|0|1125|1125|0|639834
-82889|2001|Lee, Jason Cornelius "E"|Travel Advance|None|Upon Travel Completion|0|0|2325|2325|0|639834
-82888|2001|Jackson, Keith "E"|Travel Advance|None|Upon Travel Completion|0|1950|1950|0|0|639834
-82887|2001|Imbrogno, Michael "E"|Travel Advance|None|Upon Travel Completion|0|0|792|792|0|639834
-82886|2001|Hodapp, Benjamin "E"|Travel Advance|None|Upon Travel Completion|0|0|1875|1875|0|639834
-82885|2001|Hennagan, Monique "E"|Travel Advance|None|Upon Travel Completion|0|3294|3294|0|0|639834
-82884|2001|Harman, Benjamin "E"|Travel Advance|None|Upon Travel Completion|0|0|2160|2160|0|639834
-82883|2001|George, Patricia "E"|Travel Advance|None|Upon Travel Completion|0|0|3106|3106|0|639834
-82882|2001|Dongas, Margaret "E"|Travel Advance|None|Upon Travel Completion|0|0|2969|2969|0|639834
+82898|2001|Yanez, Getsemani E|Travel Advance|None|Upon Travel Completion|0|0|1125|1125|0|639834
+82897|2001|Stith, Kristopher E|Travel Advance|None|Upon Travel Completion|0|0|975|975|0|639834
+82896|2001|Stark, Karl E|Travel Advance|None|Upon Travel Completion|0|1775|2600|825|0|639834
+82895|2001|Smith, Brittany E|Travel Advance|None|Upon Travel Completion|0|0|792|792|0|639834
+82894|2001|Shaw-Samuels, Latisha E|Travel Advance|None|Upon Travel Completion|0|0|555|555|0|639834
+82893|2001|Seward, Angela E|Travel Advance|None|Upon Travel Completion|0|0|810|810|0|639834
+82892|2001|Schafer, Meredith E|Travel Advance|None|Upon Travel Completion|0|0|3764|3764|0|639834
+82891|2001|Sandbothe, Olivia E|Travel Advance|None|Upon Travel Completion|0|0|1161|1161|0|639834
+82890|2001|Levin, Rebecca E|Travel Advance|None|Upon Travel Completion|0|0|1125|1125|0|639834
+82889|2001|Lee, Jason Cornelius E|Travel Advance|None|Upon Travel Completion|0|0|2325|2325|0|639834
+82888|2001|Jackson, Keith E|Travel Advance|None|Upon Travel Completion|0|1950|1950|0|0|639834
+82887|2001|Imbrogno, Michael E|Travel Advance|None|Upon Travel Completion|0|0|792|792|0|639834
+82886|2001|Hodapp, Benjamin E|Travel Advance|None|Upon Travel Completion|0|0|1875|1875|0|639834
+82885|2001|Hennagan, Monique E|Travel Advance|None|Upon Travel Completion|0|3294|3294|0|0|639834
+82884|2001|Harman, Benjamin E|Travel Advance|None|Upon Travel Completion|0|0|2160|2160|0|639834
+82883|2001|George, Patricia E|Travel Advance|None|Upon Travel Completion|0|0|3106|3106|0|639834
+82882|2001|Dongas, Margaret E|Travel Advance|None|Upon Travel Completion|0|0|2969|2969|0|639834
 77236|2002|All Other Loans| | | |0|0|0|0|0|626582
 76685|2001|Writer Guild Industry P&H Fund|Travel advances|None|None|5575|4855|32565|33285|0|622001
 76692|2002|All Other Loans| | | ||||||622001
@@ -1929,7 +1929,7 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 80600|2001|Rita Hall|Advance on Wages|N/A|$100 per paycheck|900|0|1100|2000||628156
 80601|2002|All Other Loans| | | ||||||628156
 81825|2002|All Other Loans| | | |0|0|0|0|0|635523
-84221|2001|KURT DREYER "O"|NONE|NONE|PAYROLL WITHHOLDING 5/1/2016|2591|0|0||2591|642615
+84221|2001|KURT DREYER O|NONE|NONE|PAYROLL WITHHOLDING 5/1/2016|2591|0|0||2591|642615
 84222|2002|All Other Loans| | | ||||||642615
 76820|2001|Teresa Adkins|Unauthorized funds|Receivable|Insurance to pay|66606|0|0|66606|0|624198
 76821|2002|All Other Loans| | | ||||||624198
@@ -2634,7 +2634,7 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 83167|2001|Jo Stark|Personal|None|Variable|100|0|0|0|100|640499
 83166|2001|Stacey Smiley|Personal|None|Variable|0|300|900|600|0|640499
 82573|2002|All Other Loans| | | |0|0|0|0|0|638845
-83271|2001|Doug Bloch "E"|See Item 69|0|See Item 69|341|894|553|0|0|640621
+83271|2001|Doug Bloch E|See Item 69|0|See Item 69|341|894|553|0|0|640621
 83272|2002|All Other Loans| | | |0|0|0|0|0|640621
 79728|2002|All Other Loans| | | ||||||627768
 81980|2002|All Other Loans| | | ||||||636727
@@ -3348,7 +3348,7 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 84676|2002|All Other Loans| | | ||||||643495
 76857|2001|215 Old Nyack Tnpke Holding|Loan|Buidling at 215 Old |Monthly Repayments|687883|680411|0|7472||624780
 76858|2002|All Other Loans| | | ||||||624780
-81817|2001|JON FLEGEL - "E"|TRAVEL ADVANCE|PROMISSORY NOTE|AT TERMINATION|500|500|0|0|0|635484
+81817|2001|JON FLEGEL - E|TRAVEL ADVANCE|PROMISSORY NOTE|AT TERMINATION|500|500|0|0|0|635484
 81818|2002|All Other Loans| | | ||||||635484
 82546|2001|IUOE|Training Center|Note|Due 8/31/2019 2.00% Interest|0|250000|250000|0|0|638764
 82548|2002|All Other Loans| | | ||||||638764

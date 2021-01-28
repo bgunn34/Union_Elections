@@ -1674,25 +1674,25 @@ OID|LOAN_TYPE|NAME|PURPOSE|SECURITY|TERMS|OUTSTANDING_START_AMT|OUTSTANDING_END_
 93062|2001|LOCAL 527|CONSTRUCTION LOAN|NONE|265/MO, 12/37|45750|43950|0|1800|0|685569
 93061|2001|LOCAL 526|PURCHASE BUILDING|MORTGAGE|705/MO, 4/29|67944|64062|0|3882|0|685569
 93372|2002|All Other Loans| | | |0|0|0|0|0|687808
-94765|2001|Sforza, Michelle "E"|Travel Advance|None|Upon Travel Completion|0|0|675|675|0|696340
-94752|2001|Borges-Hernandez, Benjamin "E"|Travel Advance|None|Upon Travel Completion|0|0|635|635|0|696340
-94764|2001|Popovici, Greg  "E"|Travel Advance|None|Upon Travel Completion|0|0|525|525|0|696340
-94763|2001|Patino, Ashley "E"|Travel Advance|None|Upon Travel Completion|0|0|257|257|0|696340
-94762|2001|Patino, Ashley  "E"|Travel Advance|None|Upon Travel Completion|0|0|301|301|0|696340
-94761|2001|McClure, Micah  "E"|Travel Advance|None|Upon Travel Completion|0|0|483|483|0|696340
-94760|2001|Marcellin Burgess, Wendy  "E"|Travel Advance|None|Upon Travel Completion|0|0|2895|2895|0|696340
-94759|2001|Marcellin Burgess, Wendy  "E"|Travel Advance|None|Upon Travel Completion|0|0|1258|1258|0|696340
-94758|2001|Haenel, Jason "E"|Travel Advance|None|Upon Travel Completion|0|0|396|396|0|696340
-94757|2001|Grabel, John "E"|Travel Advance|None|Upon Travel Completion|0|0|462|462|0|696340
-94756|2001|Farrar Smith, Roma "E"|Travel Advance|None|Upon Travel Completion|0|0|631|631|0|696340
-94755|2001|Contee, Kevin "E"|Travel Advance|None|Upon Travel Completion|0|0|525|525|0|696340
-94754|2001|Contee, Kevin "E"|Travel Advance|None|Upon Travel Completion|0|0|375|375|0|696340
-94753|2001|Brady, Terri "E"|Travel Advance|None|Upon Travel Completion|0|0|278|278|0|696340
+94765|2001|Sforza, Michelle E|Travel Advance|None|Upon Travel Completion|0|0|675|675|0|696340
+94752|2001|Borges-Hernandez, Benjamin E|Travel Advance|None|Upon Travel Completion|0|0|635|635|0|696340
+94764|2001|Popovici, Greg  E|Travel Advance|None|Upon Travel Completion|0|0|525|525|0|696340
+94763|2001|Patino, Ashley E|Travel Advance|None|Upon Travel Completion|0|0|257|257|0|696340
+94762|2001|Patino, Ashley  E|Travel Advance|None|Upon Travel Completion|0|0|301|301|0|696340
+94761|2001|McClure, Micah  E|Travel Advance|None|Upon Travel Completion|0|0|483|483|0|696340
+94760|2001|Marcellin Burgess, Wendy  E|Travel Advance|None|Upon Travel Completion|0|0|2895|2895|0|696340
+94759|2001|Marcellin Burgess, Wendy  E|Travel Advance|None|Upon Travel Completion|0|0|1258|1258|0|696340
+94758|2001|Haenel, Jason E|Travel Advance|None|Upon Travel Completion|0|0|396|396|0|696340
+94757|2001|Grabel, John E|Travel Advance|None|Upon Travel Completion|0|0|462|462|0|696340
+94756|2001|Farrar Smith, Roma E|Travel Advance|None|Upon Travel Completion|0|0|631|631|0|696340
+94755|2001|Contee, Kevin E|Travel Advance|None|Upon Travel Completion|0|0|525|525|0|696340
+94754|2001|Contee, Kevin E|Travel Advance|None|Upon Travel Completion|0|0|375|375|0|696340
+94753|2001|Brady, Terri E|Travel Advance|None|Upon Travel Completion|0|0|278|278|0|696340
 94771|2002|All Other Loans| | | ||||||696340
-94770|2001|Stith, Kristopher "E"|Travel Advance|None|Upon Travel Completion|0|0|450|450|0|696340
-94769|2001|Stark, Karl "E"|Travel Advance|None|Upon Travel Completion|0|300|300|0|0|696340
-94768|2001|Stark, Karl "E"|Travel Advance|None|Upon Travel Completion|0|750|750|0|0|696340
-94767|2001|Stark, Karl "E"|Travel Advance|None|Upon Travel Completion|0|0|836|836|0|696340
+94770|2001|Stith, Kristopher E|Travel Advance|None|Upon Travel Completion|0|0|450|450|0|696340
+94769|2001|Stark, Karl E|Travel Advance|None|Upon Travel Completion|0|300|300|0|0|696340
+94768|2001|Stark, Karl E|Travel Advance|None|Upon Travel Completion|0|750|750|0|0|696340
+94767|2001|Stark, Karl E|Travel Advance|None|Upon Travel Completion|0|0|836|836|0|696340
 94766|2001|Spears, James|Travel Advance|None|Upon Travel Completion|0|0|688|688|0|696340
 92127|2002|All Other Loans| | | |0|0|0|0|0|683785
 91233|2001|Writers Guild Industry P&H Fun|Travel advances|None|None|2526|4473|29299|27352|0|679698

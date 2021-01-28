@@ -11,6 +11,12 @@ def fetch_year_data(path, year):
     unions_df_columns = [
     'UNION_NAME',
     'UNIT_NAME',
+    'DESIG_NAME',
+    'DESIG_NUM',
+    'BUILD_NUM',
+    'STREET_ADR',
+    'CITY',
+    'STATE',
     'F_NUM',
     'AFF_ABBR',
     'NEXT_ELECTION',
@@ -73,7 +79,7 @@ def generate_tables(kind,df):
 
     org_table = pd.pivot_table(
         df,
-        index=['F_NUM','UNION_NAME','UNIT_NAME','YEAR','TITLE'],
+        index=['F_NUM','UNION_NAME','UNIT_NAME','DESIG_NAME','DESIG_NUM','YEAR','TITLE'],
         values=['CHANGE'],
     ).reset_index()
     org_table['CHANGE'] = org_table['CHANGE'].apply(np.ceil)

@@ -52,6 +52,48 @@ def check_change(df):
 
     return df
 
+def generate_tables(kind,df):
+    p_suite = [
+        'PRESIDENT',
+        'VICE PRESIDENT',
+        'VICE-PRESIDENT',
+        'TRUSTEE',
+        'EXECUTIVE BOARD',
+        'EXECUTIVE BOARD MEMBER',
+        'EXECUTIVE COMMITTEE',
+        'BOARD OF DIRECTORS',
+        'TREASURER',
+        'RECORDING SECRETARY',
+        'SECRETARY',
+    ]
+    if kind == 'pres':
+        df = df.loc[df['TITLE'].isin(p_suite)]
+    else:
+        pass
+
+    org_table = pd.pivot_table(
+        df,
+        index=['F_NUM','UNION_NAME','UNIT_NAME','YEAR','TITLE'],
+        values=['CHANGE'],
+    ).reset_index()
+    org_table['CHANGE'] = org_table['CHANGE'].apply(np.ceil)
+    org_table.to_csv(f'organization_table_{kind}.csv',index=False)
+
+    year_table = pd.pivot_table(
+        df,
+        index=['YEAR'],
+        values=['CHANGE'],
+    ).reset_index()
+    year_table.to_csv(f'totals_table_{kind}.csv',index=False)
+
+    return None
+
+
+def round_to_one(arr):
+    if arr.mean() > 0:
+        return 1
+    else:
+        return 0
 
 
 def main():
@@ -70,6 +112,9 @@ def main():
     out_df = out_df.sort_values('LAST_NAME')
     out_df = check_change(out_df)
     out_df.to_csv('raw_data.csv')
+
+    generate_tables('all_officers', out_df)
+    generate_tables('pres', out_df)
 
 
 if __name__ == '__main__':

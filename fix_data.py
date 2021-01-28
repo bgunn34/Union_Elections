@@ -34,22 +34,28 @@ def fetch_year_data(path, year):
     on='RPT_ID'
     )
     out_df['YEAR'] = year
-    out_df = out_df.dropna(subset=['FIRST_NAME'])
+    out_df.columns = out_df.columns.str.strip()
+    out_df = out_df.dropna(subset=['FIRST_NAME','LAST_NAME','F_NUM','TITLE'])
+    out_df = out_df.loc[out_df['LAST_NAME'] != ' ']
 
     return out_df
 
 
 def check_change(df):
-    out_series = []
-    df['YEAR'] = df['YEAR'].astype('Int')
-    for row in df.itertuples():
-        pass
-    return out_series
+    df.sort_values('YEAR').reset_index()
+    df['CHANGE'] = 0
+
+    change_df = df.drop_duplicates(subset=['FIRST_NAME','LAST_NAME','F_NUM','TITLE'])
+    change_df = change_df.loc[change_df['YEAR'] != 2000]
+    
+    df.loc[df.index.isin(change_df.index),'CHANGE'] = 1
+
+    return df
+
 
 
 def main():
     path = os.getcwd() + '/data/MainArchive'
-    print(path)
     years = os.listdir(path)
     out_df = []
     for year in years:
@@ -58,12 +64,12 @@ def main():
         else:
             df = fetch_year_data(path, year)
             out_df.append(df)
+    out_df = pd.concat(out_df, ignore_index=True)
 
-    out_df = pd.concat(out_df)
-    print(out_df.dtypes)
-    # out_df.to_csv('raw_data.csv')
-
-    out_df['CHANGE'] = check_change(out_df)
+    out_df['YEAR'] = out_df['YEAR'].astype('int')
+    out_df = out_df.sort_values('LAST_NAME')
+    out_df = check_change(out_df)
+    out_df.to_csv('raw_data.csv')
 
 
 if __name__ == '__main__':

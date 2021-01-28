@@ -68,4 +68,12 @@ Without names these records are just going to be useless anyway, so I'm going to
 
 Much better! That's EDA about done. Time to do some data engineering and do all these steps for all the other years in the set. Then we'll engineer some kind of "changed" variable and report on the relative rates of leadership change across time. Is gonna be fun!
 
+Holy hell the 2015 file is a mess. I got all the quotes out of all the files, but the 2015 file alone was killing me. There were just random delimiter characters on some random lines. Had to remove them manually. Thankfully that is all done now. 
 
+----------------------------------------------------------
+
+So! I have been wrestling with this for a while but I think that I got it. The question is how to go about distinguishing a change in leadership for a given organization. 
+
+At first, I was trying to go record by record and check to see if the name matched for the same F_NUM and TITLE the previous year, but at ~4 million records, this would have taken more than a week on my M1 Mac mini. It figures, as iterating over records is an anti pattern in Pandas. So I needed to find a way to vectorize.
+
+I realized that if I could slice the df in such a way that I only got the records where there had been a change, I could set an indicator on all of them fairly quickly, then add them back into the original df. Following that logic, I arrived at the below.

@@ -84,21 +84,23 @@ At first, I was trying to go record by record and check to see if the name match
 
 I realized that if I could slice the df in such a way that I only got the records where there had been a change, I could set an indicator on all of them fairly quickly, then add them back into the original df. Following that logic, I arrived at the below.
 
-    def check_change(df):
-        df.sort_values('YEAR').reset_index()
-        df['CHANGE'] = 0
+```python
+def check_change(df):
+    df.sort_values('YEAR').reset_index()
+    df['CHANGE'] = 0
 
-        change_df = df.drop_duplicates(subset=['FIRST_NAME','LAST_NAME','F_NUM','TITLE'])
-        change_df = change_df.loc[change_df['YEAR'] != 2000]
-        
-        df.loc[df.index.isin(change_df.index),'CHANGE'] = 1
+    change_df = df.drop_duplicates(subset=['FIRST_NAME','LAST_NAME','F_NUM','TITLE'])
+    change_df = change_df.loc[change_df['YEAR'] != 2000]
 
-        return df
+    df.loc[df.index.isin(change_df.index),'CHANGE'] = 1
 
+    return df
+```
 It seems simple in retrospect, but that took me way too long to come up with. 
 
 Finally, we just have to pivot to results. I took a look at all titles in the "officers" category that I had come up with, but there seemed to be an awful lot of positons out there. So I saved another set of tables looking only at the following positions:
 
+```python
     p_suite = [
             'PRESIDENT',
             'VICE PRESIDENT',
@@ -112,6 +114,7 @@ Finally, we just have to pivot to results. I took a look at all titles in the "o
             'RECORDING SECRETARY',
             'SECRETARY',
         ]
+ ```
 
 My thinking is that these represent more "power shifting" than an organizer position being filled or something like that. 
 
